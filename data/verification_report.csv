@@ -1,930 +1,145 @@
 indicator,area,period,value,unit,page,model,provenance,evidence,unit_range,arithmetic,cross_read,status,reason
-consumer_price_index_decembe,Weights,col1,13.55,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Weights,col2,4.34,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Weights,col3,5.95,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Weights,col4,17.45,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Weights,col5,4.85,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Weights,col6,3.38,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Weights,col7,23.43,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Weights,col8,6.94,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Weights,col9,2.82,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Weights,col10,4.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Weights,col11,3.66,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Weights,col12,9.01,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jan,col1,142.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jan,col2,132.8,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jan,col3,120.2,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jan,col4,124.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jan,col5,123.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jan,col6,111.2,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jan,col7,150.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jan,col8,105.8,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jan,col9,112.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jan,col10,120.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jan,col11,123.9,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jan,col12,136.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Feb,col1,143.1,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Feb,col2,133.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Feb,col3,120.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Feb,col4,124.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Feb,col5,123.7,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Feb,col6,111.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Feb,col7,150.1,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Feb,col8,105.7,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Feb,col9,112.1,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Feb,col10,120.2,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Feb,col11,124.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Feb,col12,136.1,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Mar,col1,143.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Mar,col2,133.2,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Mar,col3,120.8,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Mar,col4,124.9,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Mar,col5,124.2,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Mar,col6,111.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Mar,col7,149.9,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Mar,col8,105.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Mar,col9,112.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Mar,col10,120.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Mar,col11,124.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Mar,col12,136.2,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Apr,col1,144.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Apr,col2,134.8,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Apr,col3,121.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Apr,col4,124.9,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Apr,col5,124.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Apr,col6,111.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Apr,col7,153.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Apr,col8,105.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Apr,col9,112.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Apr,col10,120.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Apr,col11,124.7,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Apr,col12,144.1,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,May,col1,144.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,May,col2,136.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,May,col3,122.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,May,col4,124.9,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,May,col5,124.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,May,col6,111.8,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,May,col7,154.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,May,col8,105.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,May,col9,112.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,May,col10,120.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,May,col11,124.8,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,May,col12,144.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jun,col1,145.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jun,col2,136.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jun,col3,122.8,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jun,col4,125.1,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jun,col5,124.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jun,col6,111.9,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jun,col7,153.8,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jun,col8,105.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jun,col9,112.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jun,col10,120.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jun,col11,125.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jun,col12,144.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jul,col1,146.1,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jul,col2,137.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jul,col3,122.7,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jul,col4,125.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jul,col5,123.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jul,col6,112.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jul,col7,154.2,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jul,col8,105.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jul,col9,112.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jul,col10,120.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jul,col11,125.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jul,col12,145.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Aug,col1,146.9,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Aug,col2,138.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Aug,col3,123.2,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Aug,col4,125.2,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Aug,col5,123.9,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Aug,col6,113.1,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Aug,col7,154.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Aug,col8,105.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Aug,col9,112.1,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Aug,col10,120.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Aug,col11,125.7,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Aug,col12,145.2,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Sep,col1,147.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Sep,col2,138.8,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Sep,col3,123.7,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Sep,col4,125.1,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Sep,col5,124.1,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Sep,col6,113.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Sep,col7,150.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Sep,col8,105.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Sep,col9,112.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Sep,col10,120.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Sep,col11,126.1,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Sep,col12,145.2,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Oct,col1,148.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Oct,col2,139.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Oct,col3,124.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Oct,col4,125.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Oct,col5,124.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Oct,col6,113.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Oct,col7,149.8,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Oct,col8,105.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Oct,col9,113.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Oct,col10,120.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Oct,col11,126.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Oct,col12,145.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Nov,col1,148.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Nov,col2,140.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Nov,col3,124.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Nov,col4,125.2,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Nov,col5,124.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Nov,col6,113.7,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Nov,col7,149.9,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Nov,col8,105.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Nov,col9,114.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Nov,col10,120.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Nov,col11,126.9,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Nov,col12,145.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Dec,col1,148.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Dec,col2,141.1,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Dec,col3,124.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Dec,col4,125.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Dec,col5,125.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Dec,col6,113.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Dec,col7,149.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Dec,col8,105.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Dec,col9,114.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Dec,col10,120.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Dec,col11,127.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Dec,col12,145.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jan,col1,149.8,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jan,col2,142.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jan,col3,124.8,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jan,col4,125.7,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jan,col5,125.7,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jan,col6,113.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jan,col7,149.9,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jan,col8,105.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jan,col9,114.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jan,col10,123.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jan,col11,127.7,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jan,col12,146.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Feb,col1,151.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Feb,col2,142.8,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Feb,col3,125.2,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Feb,col4,125.9,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Feb,col5,126.1,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Feb,col6,113.8,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Feb,col7,150.1,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Feb,col8,105.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Feb,col9,114.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Feb,col10,123.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Feb,col11,127.8,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Feb,col12,146.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Mar,col1,151.8,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Mar,col2,143.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Mar,col3,125.8,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Mar,col4,126.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Mar,col5,126.9,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Mar,col6,114.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Mar,col7,150.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Mar,col8,105.7,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Mar,col9,114.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Mar,col10,123.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Mar,col11,127.9,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Mar,col12,146.8,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Apr,col1,152.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Apr,col2,144.7,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Apr,col3,126.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Apr,col4,126.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Apr,col5,127.2,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Apr,col6,114.1,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Apr,col7,150.9,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Apr,col8,105.7,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Apr,col9,115.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Apr,col10,123.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Apr,col11,128.1,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Apr,col12,155.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,May,col1,152.8,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,May,col2,145.1,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,May,col3,126.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,May,col4,124.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,May,col5,127.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,May,col6,114.2,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,May,col7,151.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,May,col8,105.7,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,May,col9,115.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,May,col10,123.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,May,col11,128.2,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,May,col12,155.7,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jun,col1,153.2,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jun,col2,145.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jun,col3,126.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jun,col4,124.9,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jun,col5,127.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jun,col6,114.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jun,col7,151.2,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jun,col8,105.8,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jun,col9,115.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jun,col10,123.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jun,col11,128.7,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jun,col12,155.9,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jul,col1,152.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jul,col2,146.1,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jul,col3,126.8,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jul,col4,120.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jul,col5,127.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jul,col6,114.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jul,col7,151.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jul,col8,105.8,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jul,col9,115.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jul,col10,123.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jul,col11,128.8,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jul,col12,155.8,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Aug,col1,154.2,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Aug,col2,147.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Aug,col3,127.2,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Aug,col4,120.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Aug,col5,128.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Aug,col6,115.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Aug,col7,152.1,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Aug,col8,105.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Aug,col9,114.2,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Aug,col10,123.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Aug,col11,129.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Aug,col12,156.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Sep,col1,155.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Sep,col2,149.9,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Sep,col3,128.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Sep,col4,121.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Sep,col5,129.1,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Sep,col6,116.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Sep,col7,158.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Sep,col8,105.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Sep,col9,114.1,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Sep,col10,123.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Sep,col11,129.8,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Sep,col12,157.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Oct,col1,156.1,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Oct,col2,152.9,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Oct,col3,128.7,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Oct,col4,121.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Oct,col5,129.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Oct,col6,116.2,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Oct,col7,159.1,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Oct,col8,105.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Oct,col9,114.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Oct,col10,123.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Oct,col11,130.1,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Oct,col12,157.8,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Nov,col1,156.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Nov,col2,154.1,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Nov,col3,129.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Nov,col4,121.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Nov,col5,129.9,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Nov,col6,116.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Nov,col7,158.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Nov,col8,104.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Nov,col9,114.9,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Nov,col10,123.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Nov,col11,130.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Nov,col12,158.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Dec,col1,156.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Dec,col2,154.8,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Dec,col3,129.7,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Dec,col4,122.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Dec,col5,130.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Dec,col6,116.9,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Dec,col7,158.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Dec,col8,104.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Dec,col9,115.1,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Dec,col10,123.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Dec,col11,130.8,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Dec,col12,158.7,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jan,col1,159.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jan,col2,156.2,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jan,col3,130.1,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jan,col4,122.2,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jan,col5,131.8,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jan,col6,117.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jan,col7,158.8,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jan,col8,104.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jan,col9,115.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jan,col10,125.8,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jan,col11,131.2,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jan,col12,159.9,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Feb,col1,159.2,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Feb,col2,156.2,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Feb,col3,130.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Feb,col4,122.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Feb,col5,132.2,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Feb,col6,116.9,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Feb,col7,159.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Feb,col8,104.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Feb,col9,116.2,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Feb,col10,125.9,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Feb,col11,131.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Feb,col12,160.1,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Mar,col1,160.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Mar,col2,157.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Mar,col3,130.9,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Mar,col4,122.9,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Mar,col5,132.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Mar,col6,117.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Mar,col7,160.2,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Mar,col8,104.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Mar,col9,116.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Mar,col10,125.9,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Mar,col11,132.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Mar,col12,160.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Apr,col1,161.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Apr,col2,159.7,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Apr,col3,131.9,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Apr,col4,123.8,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Apr,col5,133.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Apr,col6,118.2,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Apr,col7,193.9,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Apr,col8,104.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Apr,col9,117.2,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Apr,col10,125.9,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Apr,col11,133.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Apr,col12,171.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,May,col1,161.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,May,col2,160.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,May,col3,132.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,May,col4,124.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,May,col5,133.8,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,May,col6,118.8,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,May,col7,194.2,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,May,col8,104.8,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,May,col9,117.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,May,col10,125.9,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,May,col11,134.7,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,May,col12,173.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jun,col1,161.9,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jun,col2,161.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jun,col3,133.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jun,col4,124.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jun,col5,133.9,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jun,col6,119.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jun,col7,194.1,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jun,col8,104.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jun,col9,117.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jun,col10,125.9,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jun,col11,135.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jun,col12,173.7,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jul,col1,162.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jul,col2,161.8,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jul,col3,133.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jul,col4,124.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jul,col5,134.2,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jul,col6,119.7,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jul,col7,181.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jul,col8,104.6,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jul,col9,117.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jul,col10,126.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jul,col11,135.7,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Jul,col12,174.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Aug,col1,163.2,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Aug,col2,161.8,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Aug,col3,133.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Aug,col4,126.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Aug,col5,134.9,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Aug,col6,120.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Aug,col7,182.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Aug,col8,104.7,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Aug,col9,117.7,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Aug,col10,126.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Aug,col11,135.9,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Aug,col12,174.7,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Last month,col1,0.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Last month,col2,0.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Last month,col3,0.1,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Last month,col4,1.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Last month,col5,0.5,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Last month,col6,0.2,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Last month,col7,0.3,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Last month,col8,0.1,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Last month,col9,0.2,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Last month,col10,0.0,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Last month,col11,0.2,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_decembe,Last month,col12,0.4,,8,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Feb,col1,131.9,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Feb,col2,3.9,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Feb,col3,0.1,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Feb,col4,132.0,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Feb,col5,131.9,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Feb,col6,131.5,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Feb,col7,4.0,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Feb,col8,3.7,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Feb,col9,4.3,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Mar,col1,132.0,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Mar,col2,2.9,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Mar,col3,0.1,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Mar,col4,132.1,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Mar,col5,132.0,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Mar,col6,131.6,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Mar,col7,3.1,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Mar,col8,2.8,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Mar,col9,2.9,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Apr,col1,133.7,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Apr,col2,3.1,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Apr,col3,1.3,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Apr,col4,133.8,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Apr,col5,133.9,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Apr,col6,133.2,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Apr,col7,3.2,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Apr,col8,3.0,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Apr,col9,3.2,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,May,col1,134.2,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,May,col2,3.0,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,May,col3,0.3,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,May,col4,134.1,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,May,col5,134.4,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,May,col6,133.8,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,May,col7,3.0,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,May,col8,2.9,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,May,col9,3.2,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jun,col1,134.2,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jun,col2,2.8,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jun,col3,0.1,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jun,col4,134.2,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jun,col5,134.4,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jun,col6,134.0,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jun,col7,2.8,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jun,col8,2.7,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jun,col9,3.1,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jul,col1,134.5,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jul,col2,3.7,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jul,col3,0.2,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jul,col4,134.5,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jul,col5,134.7,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jul,col6,134.2,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jul,col7,3.6,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jul,col8,3.7,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jul,col9,4.2,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Aug,col1,134.8,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Aug,col2,3.9,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Aug,col3,0.2,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Aug,col4,134.7,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Aug,col5,134.9,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Aug,col6,135.0,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Aug,col7,3.7,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Aug,col8,3.8,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Aug,col9,4.6,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Oct,col1,134.1,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Oct,col2,1.6,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Oct,col3,0.2,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Oct,col4,133.8,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Oct,col5,134.2,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Oct,col6,134.3,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Oct,col7,1.4,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Oct,col8,1.6,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Oct,col9,1.9,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Nov,col1,134.3,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Nov,col2,1.7,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Nov,col3,0.1,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Nov,col4,134.0,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Nov,col5,134.4,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Nov,col6,134.7,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Nov,col7,1.5,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Nov,col8,1.8,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Nov,col9,2.1,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Dec,col1,134.4,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Dec,col2,1.7,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Dec,col3,0.1,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Dec,col4,134.1,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Dec,col5,134.4,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Dec,col6,134.8,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Dec,col7,1.5,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Dec,col8,1.7,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Dec,col9,2.0,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jan,col1,135.0,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jan,col2,2.5,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jan,col3,0.5,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jan,col4,134.7,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jan,col5,135.0,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jan,col6,135.4,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jan,col7,2.1,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jan,col8,2.5,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jan,col9,3.0,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Feb,col1,135.4,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Feb,col2,2.7,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Feb,col3,0.3,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Feb,col4,135.0,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Feb,col5,135.5,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Feb,col6,135.7,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Feb,col7,2.3,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Feb,col8,2.7,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Feb,col9,3.2,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Mar,col1,135.7,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Mar,col2,2.8,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Mar,col3,0.2,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Mar,col4,135.3,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Mar,col5,136.0,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Mar,col6,135.8,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Mar,col7,2.4,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Mar,col8,3.0,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Mar,col9,3.2,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Apr,col1,136.8,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Apr,col2,2.3,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Apr,col3,0.8,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Apr,col4,136.5,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Apr,col5,137.1,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Apr,col6,137.0,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Apr,col7,2.0,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Apr,col8,2.4,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Apr,col9,2.8,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jun,col1,136.9,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jun,col2,2.0,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jun,col3,0.2,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jun,col4,136.5,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jun,col5,137.2,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jun,col6,137.2,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jun,col7,1.7,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jun,col8,2.0,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jun,col9,2.5,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Aug,col1,136.7,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Aug,col2,1.4,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Aug,col3,0.5,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Aug,col4,136.0,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Aug,col5,137.1,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Aug,col6,137.2,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Aug,col7,1.0,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Aug,col8,1.6,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Aug,col9,1.6,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Sep,col1,138.9,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Sep,col2,3.7,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Sep,col3,1.6,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Sep,col4,138.2,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Sep,col5,139.2,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Sep,col6,139.4,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Sep,col7,3.3,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Sep,col8,3.9,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Sep,col9,4.0,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Oct,col1,139.3,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Oct,col2,3.9,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Oct,col3,0.3,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Oct,col4,138.6,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Oct,col5,139.6,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Oct,col6,140.0,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Oct,col7,3.6,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Oct,col8,4.0,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Oct,col9,4.2,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Nov,col1,139.3,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Nov,col2,3.8,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Nov,col3,0.0,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Nov,col4,138.6,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Nov,col5,139.6,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Nov,col6,140.2,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Nov,col7,3.5,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Nov,col8,3.9,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Nov,col9,4.0,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Dec,col1,139.6,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Dec,col2,3.9,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Dec,col3,0.2,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Dec,col4,138.9,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Dec,col5,140.0,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Dec,col6,140.3,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Dec,col7,3.6,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Dec,col8,4.1,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Dec,col9,4.1,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jan,col1,140.5,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jan,col2,4.1,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jan,col3,0.6,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jan,col4,139.7,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jan,col5,140.9,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jan,col6,141.1,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jan,col7,3.7,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jan,col8,4.3,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jan,col9,4.2,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Feb,col1,140.8,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Feb,col2,4.0,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Feb,col3,0.2,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Feb,col4,140.0,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Feb,col5,141.1,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Feb,col6,141.5,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Feb,col7,3.7,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Feb,col8,4.1,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Feb,col9,4.3,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Mar,col1,141.4,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Mar,col2,4.2,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Mar,col3,0.4,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Mar,col4,140.6,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Mar,col5,141.8,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Mar,col6,142.1,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Mar,col7,4.0,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Mar,col8,4.2,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Mar,col9,4.6,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Apr,col1,150.9,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Apr,col2,10.3,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Apr,col3,6.7,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Apr,col4,149.7,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Apr,col5,150.9,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Apr,col6,153.1,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Apr,col7,9.6,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Apr,col8,10.1,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Apr,col9,11.8,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,May,col1,151.3,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,May,col2,10.7,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,May,col3,0.3,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,May,col4,150.2,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,May,col5,151.3,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,May,col6,153.6,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,May,col7,10.2,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,May,col8,10.5,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,May,col9,12.1,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jun,col1,151.6,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jun,col2,10.7,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jun,col3,0.2,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jun,col4,150.4,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jun,col5,151.5,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jun,col6,153.9,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jun,col7,10.2,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jun,col8,10.4,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Jun,col9,12.1,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Aug,col1,149.5,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Aug,col2,9.3,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Aug,col3,0.4,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Aug,col4,148.3,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Aug,col5,149.7,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Aug,col6,151.1,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Aug,col7,9.0,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Aug,col8,9.2,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,Aug,col9,10.2,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,last month,col1,0.4,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,last month,col2,0.4,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,last month,col3,0.5,,9,rules-only,True,True,True,True,match,verified,
-consumer_price_index_cont_,last month,col4,0.4,,9,rules-only,True,True,True,True,match,verified,
-table_3_national_consumer_pr,GR,ON: A S,21.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,7 Tra,col3,23.43,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 98.8 but the document publishes 100.0
-table_3_national_consumer_pr,7 Tra,H T,182.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,7 Tra,H T (2),181.5,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,7 Tra,OG A S,194.2,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,7 Tra,OG A S (2),159.6,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,7 Tra,OG A S (3),1.0,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 25.0 but the document publishes 1.0
-table_3_national_consumer_pr,7 Tra,OG A S (4),52.1,,11,rules-only,False,False,True,True,match,dropped,52.1 is not printed on page 11 | the quoted source line does not appear on that page
-table_3_national_consumer_pr,7 Tra,PERCEN A S,0.3,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,7 Tra,HANGE A S,14.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,7 Tra,ON: A S,19.7,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,7.1,col3,5.74,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 98.8 but the document publishes 100.0 | re-read this cell: 6.9 is printed on page 11 and would close the gap
-table_3_national_consumer_pr,7.1,H T,181.6,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,7.1,H T (2),180.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,7.1,OG A S,177.6,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,7.1,OG A S (2),175.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,7.1,OG A S (3),1.0,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 25.0 but the document publishes 1.0
-table_3_national_consumer_pr,7.1,OG A S (4),67.0,,11,rules-only,False,False,True,True,match,dropped,67.0 is not printed on page 11 | the quoted source line does not appear on that page
-table_3_national_consumer_pr,7.1,PERCEN A S,0.9,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,7.1,TAGE C A S,2.3,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,7.1,HANGE A S,3.8,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,7.1,ON: A S,8.7,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,7.2,col3,12.56,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 98.8 but the document publishes 100.0
-table_3_national_consumer_pr,7.2,H T,188.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,7.2,H T (2),187.8,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,7.2,OG A S,212.6,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,7.2,OG A S (2),159.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,7.2,OG A S (3),1.0,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 25.0 but the document publishes 1.0
-table_3_national_consumer_pr,7.2,OG A S (4),48.6,,11,rules-only,False,False,True,True,match,dropped,48.6 is not printed on page 11 | the quoted source line does not appear on that page
-table_3_national_consumer_pr,7.2,PERCEN A S,0.1,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,7.2,HANGE A S,18.2,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,7.2,ON: A S,26.5,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,7.3,col3,5.13,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 98.8 but the document publishes 100.0
-table_3_national_consumer_pr,7.3,H T,167.6,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,7.3,H T (2),167.6,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,7.3,OG A S,167.6,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,7.3,OG A S (2),143.8,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,7.3,OG A S (3),1.0,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 25.0 but the document publishes 1.0
-table_3_national_consumer_pr,7.3,OG A S (4),43.8,,11,rules-only,False,False,True,True,match,dropped,43.8 is not printed on page 11 | the quoted source line does not appear on that page
-table_3_national_consumer_pr,7.3,PERCEN A S,0.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,7.3,TAGE C A S,0.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,7.3,HANGE A S,16.6,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,7.3,ON: A S,16.6,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,8 Co,col3,6.94,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 98.8 but the document publishes 100.0
-table_3_national_consumer_pr,8 Co,H T,104.7,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,8 Co,H T (2),104.6,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,8 Co,OG A S,104.8,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,8 Co,OG A S (2),104.3,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,8 Co,OG A S (3),1.0,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 25.0 but the document publishes 1.0
-table_3_national_consumer_pr,8 Co,OG A S (4),5.6,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,8 Co,PERCEN A S,0.1,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,8 Co,HANGE A S,0.4,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,8.1,col3,0.21,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 98.8 but the document publishes 100.0
-table_3_national_consumer_pr,8.1,H T,127.5,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,8.1,H T (2),127.5,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,8.1,OG A S,127.5,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,8.1,OG A S (2),127.5,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,8.1,OG A S (3),1.0,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 25.0 but the document publishes 1.0
-table_3_national_consumer_pr,8.1,OG A S (4),27.5,,11,rules-only,False,False,True,True,match,dropped,27.5 is not printed on page 11 | the quoted source line does not appear on that page
-table_3_national_consumer_pr,8.1,PERCEN A S,0.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,8.1,TAGE C A S,0.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,8.1,HANGE A S,0.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,8.1,ON: A S,0.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,8.2,col3,1.13,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 98.8 but the document publishes 100.0 | re-read this cell: 2.3 is printed on page 11 and would close the gap
-table_3_national_consumer_pr,8.2,H T,120.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,8.2,H T (2),119.5,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,8.2,OG A S,120.2,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,8.2,OG A S (2),117.4,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,8.2,OG A S (3),1.0,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 25.0 but the document publishes 1.0
-table_3_national_consumer_pr,8.2,OG A S (4),17.7,,11,rules-only,False,False,True,True,match,dropped,17.7 is not printed on page 11 | the quoted source line does not appear on that page
-table_3_national_consumer_pr,8.2,PERCEN A S,0.4,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,8.2,HANGE A S,2.2,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,8.2,ON: A S,1.9,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,8.3,col3,5.6,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 98.8 but the document publishes 100.0
-table_3_national_consumer_pr,8.3,H T,100.8,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,8.3,H T (2),100.8,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,8.3,OG A S,100.8,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,8.3,OG A S (2),100.8,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,8.3,OG A S (3),1.0,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 25.0 but the document publishes 1.0
-table_3_national_consumer_pr,8.3,OG A S (4),2.4,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,8.3,PERCEN A S,0.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,8.3,TAGE C A S,0.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,8.3,HANGE A S,0.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,9 Re,col3,2.82,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 98.8 but the document publishes 100.0
-table_3_national_consumer_pr,9 Re,H T,117.7,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,9 Re,H T (2),117.5,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,9 Re,OG A S,117.3,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,9 Re,OG A S (2),116.2,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,9 Re,OG A S (3),1.0,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 25.0 but the document publishes 1.0
-table_3_national_consumer_pr,9 Re,OG A S (4),14.2,,11,rules-only,False,False,True,True,match,dropped,14.2 is not printed on page 11 | the quoted source line does not appear on that page
-table_3_national_consumer_pr,9 Re,PERCEN A S,0.2,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,9 Re,TAGE C A S,0.4,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,9 Re,HANGE A S,1.3,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,9 Re,ON: A S,3.1,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,9.2,col3,0.3,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 98.8 but the document publishes 100.0
-table_3_national_consumer_pr,9.2,H T,130.1,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,9.2,H T (2),128.8,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,9.2,OG A S,129.6,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,9.2,OG A S (2),126.9,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,9.2,OG A S (3),1.0,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 25.0 but the document publishes 1.0
-table_3_national_consumer_pr,9.2,OG A S (4),23.3,,11,rules-only,False,False,True,True,match,dropped,23.3 is not printed on page 11 | the quoted source line does not appear on that page
-table_3_national_consumer_pr,9.2,PERCEN A S,1.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,9.2,TAGE C A S,0.4,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,9.2,HANGE A S,2.6,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,9.2,ON: A S,5.5,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,9.3,col3,0.31,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 98.8 but the document publishes 100.0
-table_3_national_consumer_pr,9.3,H T,127.3,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,9.3,H T (2),127.3,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,9.3,OG A S,127.2,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,9.3,OG A S (2),127.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,9.3,OG A S (3),1.0,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 25.0 but the document publishes 1.0
-table_3_national_consumer_pr,9.3,OG A S (4),26.8,,11,rules-only,False,False,True,True,match,dropped,26.8 is not printed on page 11 | the quoted source line does not appear on that page
-table_3_national_consumer_pr,9.3,TAGE C A S,0.1,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,9.3,HANGE A S,0.2,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,9.3,ON: A S,0.4,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,9.4,col3,0.11,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 98.8 but the document publishes 100.0
-table_3_national_consumer_pr,9.4,H T,128.6,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,9.4,H T (2),128.3,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,9.4,OG A S,128.4,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,9.4,OG A S (2),127.6,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,9.4,OG A S (3),1.0,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 25.0 but the document publishes 1.0
-table_3_national_consumer_pr,9.4,OG A S (4),23.5,,11,rules-only,False,False,True,True,match,dropped,23.5 is not printed on page 11 | the quoted source line does not appear on that page
-table_3_national_consumer_pr,9.4,PERCEN A S,0.2,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,9.4,TAGE C A S,0.1,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,9.4,HANGE A S,0.8,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,9.4,ON: A S,4.1,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,10 Ed,col3,4.6,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 98.8 but the document publishes 100.0
-table_3_national_consumer_pr,10 Ed,H T,126.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,10 Ed,H T (2),126.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,10 Ed,OG A S,125.9,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,10 Ed,OG A S (2),125.9,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,10 Ed,OG A S (3),1.0,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 25.0 but the document publishes 1.0
-table_3_national_consumer_pr,10 Ed,OG A S (4),23.4,,11,rules-only,False,False,True,True,match,dropped,23.4 is not printed on page 11 | the quoted source line does not appear on that page
-table_3_national_consumer_pr,10 Ed,PERCEN A S,0.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,10 Ed,TAGE C A S,0.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,10 Ed,HANGE A S,0.1,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,10 Ed,ON: A S,2.1,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,10.1,col3,1.89,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 98.8 but the document publishes 100.0
-table_3_national_consumer_pr,10.1,H T,131.9,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,10.1,H T (2),131.9,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,10.1,OG A S,131.9,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,10.1,OG A S (2),131.9,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,10.1,OG A S (3),1.0,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 25.0 but the document publishes 1.0
-table_3_national_consumer_pr,10.1,OG A S (4),28.7,,11,rules-only,False,False,True,True,match,dropped,28.7 is not printed on page 11 | the quoted source line does not appear on that page
-table_3_national_consumer_pr,10.1,PERCEN A S,0.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,10.1,TAGE C A S,0.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,10.1,HANGE A S,0.1,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,10.1,ON: A S,2.5,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,10.2,col3,2.7,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 98.8 but the document publishes 100.0 | re-read this cell: 3.9 is printed on page 11 and would close the gap
-table_3_national_consumer_pr,10.2,H T,121.8,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,10.2,H T (2),121.8,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,10.2,OG A S,121.8,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,10.2,OG A S (2),121.7,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,10.2,OG A S (3),1.0,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 25.0 but the document publishes 1.0
-table_3_national_consumer_pr,10.2,OG A S (4),19.6,,11,rules-only,False,False,True,True,match,dropped,19.6 is not printed on page 11 | the quoted source line does not appear on that page
-table_3_national_consumer_pr,10.2,PERCEN A S,0.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,10.2,TAGE C A S,0.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,10.2,HANGE A S,0.1,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,10.2,ON: A S,1.8,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,11 Re,col3,3.66,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 98.8 but the document publishes 100.0
-table_3_national_consumer_pr,11 Re,H T,135.9,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,11 Re,H T (2),135.7,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,11 Re,OG A S,134.7,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,11 Re,OG A S (2),131.5,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,11 Re,OG A S (3),1.0,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 25.0 but the document publishes 1.0
-table_3_national_consumer_pr,11 Re,OG A S (4),29.0,,11,rules-only,False,False,True,True,match,dropped,29.0 is not printed on page 11 | the quoted source line does not appear on that page
-table_3_national_consumer_pr,11 Re,PERCEN A S,0.2,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,11 Re,TAGE C A S,0.9,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,11 Re,HANGE A S,3.4,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,11 Re,ON: A S,5.3,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,11.1,col3,3.02,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 98.8 but the document publishes 100.0
-table_3_national_consumer_pr,11.1,H T,143.2,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,11.1,H T (2),142.9,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,11.1,OG A S,141.8,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,11.1,OG A S (2),137.9,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,11.1,OG A S (3),1.0,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 25.0 but the document publishes 1.0
-table_3_national_consumer_pr,11.1,OG A S (4),34.2,,11,rules-only,False,False,True,True,match,dropped,34.2 is not printed on page 11 | the quoted source line does not appear on that page
-table_3_national_consumer_pr,11.1,PERCEN A S,0.2,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,11.1,TAGE C A S,1.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,11.1,HANGE A S,3.9,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,11.1,ON: A S,6.7,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,11.2,col3,0.64,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 98.8 but the document publishes 100.0
-table_3_national_consumer_pr,11.2,H T,101.6,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,11.2,H T (2),101.6,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,11.2,OG A S,101.5,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,11.2,OG A S (2),101.5,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,11.2,OG A S (3),1.0,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 25.0 but the document publishes 1.0
-table_3_national_consumer_pr,11.2,OG A S (4),4.6,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,11.2,PERCEN A S,0.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,11.2,TAGE C A S,0.1,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,11.2,HANGE A S,0.1,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12 Mi,col3,9.01,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 98.8 but the document publishes 100.0
-table_3_national_consumer_pr,12 Mi,H T,174.7,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12 Mi,H T (2),174.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12 Mi,OG A S,173.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12 Mi,OG A S (2),160.1,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12 Mi,OG A S (3),1.0,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 25.0 but the document publishes 1.0
-table_3_national_consumer_pr,12 Mi,OG A S (4),56.6,,11,rules-only,False,False,True,True,match,dropped,56.6 is not printed on page 11 | the quoted source line does not appear on that page
-table_3_national_consumer_pr,12 Mi,PERCEN A S,0.4,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12 Mi,TAGE C A S,1.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12 Mi,HANGE A S,9.1,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12 Mi,ON: A S,11.6,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.1,col3,2.33,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 98.8 but the document publishes 100.0
-table_3_national_consumer_pr,12.1,H T,158.6,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.1,H T (2),155.5,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.1,OG A S,154.9,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.1,OG A S (2),151.1,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.1,OG A S (3),1.0,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 25.0 but the document publishes 1.0
-table_3_national_consumer_pr,12.1,OG A S (4),41.3,,11,rules-only,False,False,True,True,match,dropped,41.3 is not printed on page 11 | the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.1,PERCEN A S,2.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.1,TAGE C A S,2.4,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.1,HANGE A S,5.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.1,ON: A S,12.2,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.2,col3,0.22,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 98.8 but the document publishes 100.0
-table_3_national_consumer_pr,12.2,H T,105.6,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.2,H T (2),104.8,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.2,OG A S,104.4,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.2,OG A S (2),106.6,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.2,OG A S (3),1.0,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 25.0 but the document publishes 1.0
-table_3_national_consumer_pr,12.2,OG A S (4),7.4,,11,rules-only,False,False,True,True,match,dropped,7.4 is not printed on page 11 | the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.2,PERCEN A S,0.8,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.2,TAGE C A S,1.2,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.3,col3,0.13,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 98.8 but the document publishes 100.0
-table_3_national_consumer_pr,12.3,H T,129.9,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.3,H T (2),129.9,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.3,OG A S,129.9,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.3,OG A S (2),129.9,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.3,OG A S (3),1.0,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 25.0 but the document publishes 1.0
-table_3_national_consumer_pr,12.3,OG A S (4),29.4,,11,rules-only,False,False,True,True,match,dropped,29.4 is not printed on page 11 | the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.3,PERCEN A S,0.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.3,TAGE C A S,0.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.3,HANGE A S,0.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.3,ON: A S,0.4,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.4,col3,3.62,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 98.8 but the document publishes 100.0
-table_3_national_consumer_pr,12.4,H T,222.8,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.4,H T (2),222.7,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.4,OG A S,220.7,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.4,OG A S (2),193.7,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.4,OG A S (3),1.0,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 25.0 but the document publishes 1.0
-table_3_national_consumer_pr,12.4,OG A S (4),91.9,,11,rules-only,False,False,True,True,match,dropped,91.9 is not printed on page 11 | the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.4,PERCEN A S,0.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.4,TAGE C A S,1.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.4,HANGE A S,15.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.4,ON: A S,16.1,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.5,col3,1.09,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 98.8 but the document publishes 100.0
-table_3_national_consumer_pr,12.5,H T,134.2,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.5,H T (2),135.6,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.5,OG A S,135.3,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.5,OG A S (2),129.9,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.5,OG A S (3),1.0,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 25.0 but the document publishes 1.0
-table_3_national_consumer_pr,12.5,OG A S (4),27.6,,11,rules-only,False,False,True,True,match,dropped,27.6 is not printed on page 11 | the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.5,HANGE A S,3.3,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.5,ON: A S,5.2,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.6,col3,1.61,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 98.8 but the document publishes 100.0
-table_3_national_consumer_pr,12.6,H T,130.2,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.6,H T (2),130.2,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.6,OG A S,130.2,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.6,OG A S (2),128.1,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.6,OG A S (3),1.0,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 25.0 but the document publishes 1.0
-table_3_national_consumer_pr,12.6,OG A S (4),27.9,,11,rules-only,False,False,True,True,match,dropped,27.9 is not printed on page 11 | the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.6,PERCEN A S,0.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.6,TAGE C A S,0.0,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.6,HANGE A S,1.7,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,12.6,ON: A S,1.8,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,All,col3,100.0,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 98.8 but the document publishes 100.0
-table_3_national_consumer_pr,All,H T,149.5,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,All,H T (2),148.8,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,All,OG A S,151.3,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,All,OG A S (2),140.8,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,All,OG A S (3),1.0,,11,rules-only,True,False,True,False,match,dropped,the quoted source line does not appear on that page | parts sum to 25.0 but the document publishes 1.0
-table_3_national_consumer_pr,All,OG A S (4),36.7,,11,rules-only,False,False,True,True,match,dropped,36.7 is not printed on page 11 | the quoted source line does not appear on that page
-table_3_national_consumer_pr,All,PERCEN A S,0.4,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,All,HANGE A S,6.2,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
-table_3_national_consumer_pr,All,ON: A S,9.3,,11,rules-only,True,False,True,True,match,dropped,the quoted source line does not appear on that page
+cpi_urban_index,GENERAL INDEX,Weights,100.0,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,GENERAL INDEX,Aug-25,188.3,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 188.3 is outside the plausible range for cpi_urban_index
+cpi_urban_index,GENERAL INDEX,Jul-26,214.0,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 214.0 is outside the plausible range for cpi_urban_index
+cpi_urban_index,GENERAL INDEX,Aug-26,217.8,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 217.8 is outside the plausible range for cpi_urban_index
+cpi_urban_index,GENERAL INDEX,on Jul. 2026,1.8,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,GENERAL INDEX,on Aug. 2025,15.7,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,GENERAL INDEX,1 month,1.8,%,10,openai/gpt-oss-120b,True,True,True,False,row-only,review,parts sum to 2.8 but the document publishes 1.8
+cpi_urban_index,GENERAL INDEX,12 months,15.7,%,10,openai/gpt-oss-120b,True,True,True,False,row-only,review,parts sum to 20.6 but the document publishes 15.7
+cpi_urban_index,Food and non-alcoholic beverages,Weights,27.0,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Food and non-alcoholic beverages,Aug-25,241.4,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 241.4 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Food and non-alcoholic beverages,Jul-26,270.7,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 270.7 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Food and non-alcoholic beverages,Aug-26,280.7,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 280.7 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Food and non-alcoholic beverages,on Jul. 2026,3.7,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Food and non-alcoholic beverages,on Aug. 2025,16.3,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Food and non-alcoholic beverages,1 month,1.3,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 2.8 but the document publishes 1.8 | re-read this cell: 0.3 is printed on page 10 and would close the gap
+cpi_urban_index,Food and non-alcoholic beverages,12 months,5.7,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 20.6 but the document publishes 15.7 | re-read this cell: 0.8 is printed on page 10 and would close the gap
+cpi_urban_index,Bread and cereals,Weights,5.0,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Bread and cereals,Aug-25,197.4,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 197.4 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Bread and cereals,Jul-26,210.0,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 210.0 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Bread and cereals,Aug-26,211.3,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 211.3 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Bread and cereals,on Jul. 2026,0.6,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Bread and cereals,on Aug. 2025,7.1,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Bread and cereals,1 month,0.0,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 2.8 but the document publishes 1.8 | re-read this cell: -1.0 is printed on page 10 and would close the gap
+cpi_urban_index,Bread and cereals,12 months,0.4,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 20.6 but the document publishes 15.7
+cpi_urban_index,Meat,Weights,2.0,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Meat,Aug-25,297.5,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 297.5 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Meat,Jul-26,398.4,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 398.4 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Meat,Aug-26,406.6,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 406.6 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Meat,on Jul. 2026,2.1,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Meat,on Aug. 2025,36.7,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Meat,1 month,0.1,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 2.8 but the document publishes 1.8 | re-read this cell: -0.9 is printed on page 10 and would close the gap
+cpi_urban_index,Meat,12 months,1.1,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 20.6 but the document publishes 15.7
+cpi_urban_index,Milk cheese and eggs,Weights,1.0,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Milk cheese and eggs,Aug-25,216.8,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 216.8 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Milk cheese and eggs,Jul-26,227.9,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 227.9 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Milk cheese and eggs,Aug-26,228.2,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 228.2 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Milk cheese and eggs,on Jul. 2026,0.1,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Milk cheese and eggs,on Aug. 2025,5.3,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Milk cheese and eggs,1 month,0.0,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 2.8 but the document publishes 1.8
+cpi_urban_index,Milk cheese and eggs,12 months,0.1,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 20.6 but the document publishes 15.7
+cpi_urban_index,Vegetables,Weights,9.0,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Vegetables,Aug-25,269.4,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 269.4 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Vegetables,Jul-26,313.6,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 313.6 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Vegetables,Aug-26,336.0,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 336.0 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Vegetables,on Jul. 2026,7.1,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Vegetables,on Aug. 2025,24.7,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Vegetables,1 month,0.9,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 2.8 but the document publishes 1.8
+cpi_urban_index,Vegetables,12 months,3.1,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 20.6 but the document publishes 15.7 | re-read this cell: -1.8 is printed on page 10 and would close the gap
+cpi_urban_index,Non-alcoholic beverages,Weights,1.0,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Non-alcoholic beverages,Aug-25,208.2,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 208.2 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Non-alcoholic beverages,Jul-26,223.9,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 223.9 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Non-alcoholic beverages,Aug-26,225.6,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 225.6 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Non-alcoholic beverages,on Jul. 2026,0.8,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Non-alcoholic beverages,on Aug. 2025,8.4,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Non-alcoholic beverages,1 month,0.0,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 2.8 but the document publishes 1.8
+cpi_urban_index,Non-alcoholic beverages,12 months,0.1,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 20.6 but the document publishes 15.7
+cpi_urban_index,Alcoholic beverages tobacco and narcotics,Weights,5.0,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Alcoholic beverages tobacco and narcotics,Aug-25,261.6,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 261.6 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Alcoholic beverages tobacco and narcotics,Jul-26,283.4,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 283.4 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Alcoholic beverages tobacco and narcotics,Aug-26,286.9,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 286.9 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Alcoholic beverages tobacco and narcotics,on Jul. 2026,1.2,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Alcoholic beverages tobacco and narcotics,on Aug. 2025,9.7,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Alcoholic beverages tobacco and narcotics,1 month,0.1,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 2.8 but the document publishes 1.8
+cpi_urban_index,Alcoholic beverages tobacco and narcotics,12 months,0.7,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 20.6 but the document publishes 15.7
+cpi_urban_index,Clothing and footwear,Weights,5.0,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Clothing and footwear,Aug-25,168.4,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 168.4 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Clothing and footwear,Jul-26,176.9,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 176.9 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Clothing and footwear,Aug-26,177.2,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 177.2 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Clothing and footwear,on Jul. 2026,0.2,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Clothing and footwear,on Aug. 2025,5.2,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Clothing and footwear,1 month,0.0,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 2.8 but the document publishes 1.8
+cpi_urban_index,Clothing and footwear,12 months,0.2,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 20.6 but the document publishes 15.7
+cpi_urban_index,"Housing water, electricity, gas and other fuels",Weights,21.0,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,"Housing water, electricity, gas and other fuels",Aug-25,144.3,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 144.3 is outside the plausible range for cpi_urban_index
+cpi_urban_index,"Housing water, electricity, gas and other fuels",Jul-26,173.5,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 173.5 is outside the plausible range for cpi_urban_index
+cpi_urban_index,"Housing water, electricity, gas and other fuels",Aug-26,173.8,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 173.8 is outside the plausible range for cpi_urban_index
+cpi_urban_index,"Housing water, electricity, gas and other fuels",on Jul. 2026,0.2,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,"Housing water, electricity, gas and other fuels",on Aug. 2025,20.4,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,"Housing water, electricity, gas and other fuels",1 month,0.0,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 2.8 but the document publishes 1.8
+cpi_urban_index,"Housing water, electricity, gas and other fuels",12 months,3.3,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 20.6 but the document publishes 15.7
+cpi_urban_index,Furnishings household equipment and routine household maintenance,Weights,4.0,%,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi_urban_index,Furnishings household equipment and routine household maintenance,Aug-25,173.4,,10,openai/gpt-oss-120b,True,True,False,True,no-row,review,unit '' not allowed for cpi_urban_index; 173.4 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Furnishings household equipment and routine household maintenance,Jul-26,183.2,,10,openai/gpt-oss-120b,True,True,False,True,no-row,review,unit '' not allowed for cpi_urban_index; 183.2 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Furnishings household equipment and routine household maintenance,Aug-26,184.3,,10,openai/gpt-oss-120b,True,True,False,True,no-row,review,unit '' not allowed for cpi_urban_index; 184.3 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Furnishings household equipment and routine household maintenance,on Jul. 2026,0.6,%,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi_urban_index,Furnishings household equipment and routine household maintenance,on Aug. 2025,6.3,%,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi_urban_index,Furnishings household equipment and routine household maintenance,1 month,0.0,,10,openai/gpt-oss-120b,True,True,False,False,no-row,review,unit '' not allowed for cpi_urban_index | parts sum to 2.8 but the document publishes 1.8
+cpi_urban_index,Furnishings household equipment and routine household maintenance,12 months,0.2,,10,openai/gpt-oss-120b,True,True,False,False,no-row,review,unit '' not allowed for cpi_urban_index | parts sum to 20.6 but the document publishes 15.7
+cpi_urban_index,Health,Weights,1.0,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Health,Aug-25,193.4,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 193.4 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Health,Jul-26,195.5,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 195.5 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Health,Aug-26,195.6,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 195.6 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Health,on Jul. 2026,0.0,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Health,on Aug. 2025,1.2,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Health,1 month,0.0,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 2.8 but the document publishes 1.8
+cpi_urban_index,Health,12 months,0.0,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 20.6 but the document publishes 15.7
+cpi_urban_index,Transport,Weights,12.0,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Transport,Aug-25,201.0,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 201.0 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Transport,Jul-26,249.2,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 249.2 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Transport,Aug-26,249.6,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 249.6 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Transport,on Jul. 2026,0.2,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Transport,on Aug. 2025,24.2,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Transport,1 month,0.0,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 2.8 but the document publishes 1.8
+cpi_urban_index,Transport,12 months,3.2,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 20.6 but the document publishes 15.7
+cpi_urban_index,Communication,Weights,3.0,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Communication,Aug-25,114.3,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 114.3 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Communication,Jul-26,118.2,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 118.2 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Communication,Aug-26,117.9,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 117.9 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Communication,on Jul. 2026,-0.3,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Communication,on Aug. 2025,3.2,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Communication,1 month,0.0,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 2.8 but the document publishes 1.8
+cpi_urban_index,Communication,12 months,0.1,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 20.6 but the document publishes 15.7
+cpi_urban_index,Recreation and culture,Weights,3.0,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Recreation and culture,Aug-25,154.0,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 154.0 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Recreation and culture,Jul-26,162.2,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 162.2 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Recreation and culture,Aug-26,162.6,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 162.6 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Recreation and culture,on Jul. 2026,0.2,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Recreation and culture,on Aug. 2025,5.6,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Recreation and culture,1 month,0.0,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 2.8 but the document publishes 1.8
+cpi_urban_index,Recreation and culture,12 months,0.1,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 20.6 but the document publishes 15.7
+cpi_urban_index,Education,Weights,3.0,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Education,Aug-25,155.5,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 155.5 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Education,Jul-26,176.2,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 176.2 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Education,Aug-26,176.2,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 176.2 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Education,on Jul. 2026,0.0,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Education,on Aug. 2025,13.3,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Education,1 month,0.0,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 2.8 but the document publishes 1.8
+cpi_urban_index,Education,12 months,0.3,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 20.6 but the document publishes 15.7
+cpi_urban_index,Restaurants and hotels,Weights,9.0,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Restaurants and hotels,Aug-25,172.1,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 172.1 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Restaurants and hotels,Jul-26,195.0,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 195.0 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Restaurants and hotels,Aug-26,199.0,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 199.0 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Restaurants and hotels,on Jul. 2026,2.0,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Restaurants and hotels,on Aug. 2025,15.6,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Restaurants and hotels,1 month,0.2,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 2.8 but the document publishes 1.8
+cpi_urban_index,Restaurants and hotels,12 months,1.3,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 20.6 but the document publishes 15.7
+cpi_urban_index,Miscellaneous goods and services,Weights,6.0,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Miscellaneous goods and services,Aug-25,147.1,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 147.1 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Miscellaneous goods and services,Jul-26,160.5,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 160.5 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Miscellaneous goods and services,Aug-26,166.7,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 166.7 is outside the plausible range for cpi_urban_index
+cpi_urban_index,Miscellaneous goods and services,on Jul. 2026,3.9,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Miscellaneous goods and services,on Aug. 2025,13.3,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
+cpi_urban_index,Miscellaneous goods and services,1 month,0.2,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 2.8 but the document publishes 1.8
+cpi_urban_index,Miscellaneous goods and services,12 months,0.7,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 20.6 but the document publishes 15.7
