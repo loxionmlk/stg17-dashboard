@@ -9,14 +9,14 @@
    "fr": ""
   },
   "docTitle": {
-   "en": "STATISTICS OF RWANDA",
-   "fr": "STATISTICS OF RWANDA"
+   "en": "PRICE",
+   "fr": "PRICE"
   },
   "period": {
    "en": "",
    "fr": ""
   },
-  "sourceUrl": "https://statistics.gov.rw/sites/default/files/documents/2026-09/CONSUMER%20PRICE%20INDEX%20%20%28CPI%29%20AUGUST%202026.pdf",
+  "sourceUrl": "https://www.statsbots.org.bw/sites/default/files/publications/Consumer%20Price%20Index%20July%202026.pdf",
   "licence": {
    "en": "Source data: as published by the institute. Dashboard code: MIT.",
    "fr": "Données source : telles que publiées par l'institut. Code : MIT."
@@ -31,104 +31,56 @@
  },
  "areas": [
   {
-   "id": "alcoholic-beverages-tobacco-and-narcotics",
-   "fr": "Alcoholic beverages tobacco and narcotics",
-   "en": "Alcoholic beverages, tobacco and narcotics"
+   "id": "1-food-non-alcoholic-beverages",
+   "fr": "1 Food & Non-Alcoholic Beverages",
+   "en": "Food & Non-Alcoholic Beverages"
   },
   {
-   "id": "bread-and-cereals",
-   "fr": "Bread and cereals",
-   "en": "Bread and cereals"
+   "id": "1-1-bread-cereals",
+   "fr": "1.1 Bread & Cereals",
+   "en": "Bread & Cereals"
   },
   {
-   "id": "clothing-and-footwear",
-   "fr": "Clothing and footwear",
-   "en": "Clothing and footwear"
+   "id": "1-2-meat-fresh-chilled-frozen",
+   "fr": "1.2 Meat (Fresh, Chilled & Frozen)",
+   "en": "Meat (Fresh, Chilled & Frozen)"
   },
   {
-   "id": "communication",
-   "fr": "Communication",
-   "en": "Communication"
+   "id": "1-3-fish-fresh-chilled-frozen",
+   "fr": "1.3 Fish (Fresh, Chilled & Frozen)",
+   "en": "Fish (Fresh, Chilled & Frozen)"
   },
   {
-   "id": "education",
-   "fr": "Education",
-   "en": "Education"
-  },
-  {
-   "id": "food-and-non-alcoholic-beverages",
-   "fr": "Food and non-alcoholic beverages",
-   "en": "Food and non‑alcoholic beverages"
-  },
-  {
-   "id": "furnishings-household-equipment-and-routine-household-maintenance",
-   "fr": "Furnishings household equipment and routine household maintenance",
-   "en": "Furnishings, household equipment and routine household maintenance"
-  },
-  {
-   "id": "nat",
-   "fr": "GENERAL INDEX",
-   "en": "General index",
-   "national": true
-  },
-  {
-   "id": "health",
-   "fr": "Health",
-   "en": "Health"
-  },
-  {
-   "id": "housing-water-electricity-gas-and-other-fuels",
-   "fr": "Housing water, electricity, gas and other fuels",
-   "en": "Housing, water, electricity, gas and other fuels"
-  },
-  {
-   "id": "meat",
-   "fr": "Meat",
-   "en": "Meat"
-  },
-  {
-   "id": "milk-cheese-and-eggs",
-   "fr": "Milk cheese and eggs",
-   "en": "Milk, cheese and eggs"
-  },
-  {
-   "id": "miscellaneous-goods-and-services",
-   "fr": "Miscellaneous goods and services",
-   "en": "Miscellaneous goods and services"
-  },
-  {
-   "id": "non-alcoholic-beverages",
-   "fr": "Non-alcoholic beverages",
-   "en": "Non‑alcoholic beverages"
-  },
-  {
-   "id": "recreation-and-culture",
-   "fr": "Recreation and culture",
-   "en": "Recreation and culture"
-  },
-  {
-   "id": "restaurants-and-hotels",
-   "fr": "Restaurants and hotels",
-   "en": "Restaurants and hotels"
-  },
-  {
-   "id": "transport",
-   "fr": "Transport",
-   "en": "Transport"
-  },
-  {
-   "id": "vegetables",
-   "fr": "Vegetables",
-   "en": "Vegetables"
+   "id": "1-4-milk-cheese-milk-products",
+   "fr": "1.4 Milk, Cheese & Milk Products",
+   "en": "Milk, Cheese & Milk Products"
   }
  ],
  "kpis": [
   {
    "labels": {
-    "en": "Urban CPI – GENERAL INDEX – Aug-26",
-    "fr": "IPC urbain – INDEX GÉNÉRAL – août 2026"
+    "en": "Food & non‑alcoholic beverages index (period 6202)",
+    "fr": "Indice alimentation & boissons non alcoolisées (période 6202)"
    },
-   "value": 217.8,
+   "value": 161.4,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "delta": null,
+   "deltaLabel": {
+    "en": "vs None",
+    "fr": "vs None"
+   },
+   "good": "down",
+   "highlight": true
+  },
+  {
+   "labels": {
+    "en": "Bread & cereals index (period HTNOM)",
+    "fr": "Indice pain & céréales (période HTNOM)"
+   },
+   "value": 166.1,
    "unit": {
     "en": "",
     "fr": ""
@@ -143,10 +95,10 @@
   },
   {
    "labels": {
-    "en": "Urban CPI – Food and non-alcoholic beverages – Aug-26",
-    "fr": "IPC urbain – Alimentation et boissons non alcoolisées – août 2026"
+    "en": "Meat index (period LUJ)",
+    "fr": "Indice viande (période LUJ)"
    },
-   "value": 280.7,
+   "value": 164.9,
    "unit": {
     "en": "",
     "fr": ""
@@ -161,28 +113,10 @@
   },
   {
    "labels": {
-    "en": "Urban CPI – Transport – Aug-26",
-    "fr": "IPC urbain – Transport – août 2026"
+    "en": "Fish index (period NUJ)",
+    "fr": "Indice poisson (période NUJ)"
    },
-   "value": 249.6,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "delta": null,
-   "deltaLabel": {
-    "en": "vs None",
-    "fr": "vs None"
-   },
-   "good": "down",
-   "highlight": false
-  },
-  {
-   "labels": {
-    "en": "Urban CPI – Education – Aug-26",
-    "fr": "IPC urbain – Éducation – août 2026"
-   },
-   "value": 176.2,
+   "value": 4.3,
    "unit": {
     "en": "",
     "fr": ""
@@ -197,2523 +131,807 @@
   }
  ],
  "series": {
-  "cpi_urban_index": {
+  "cpi": {
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "",
+    "fr": ""
    },
    "periods": [
-    "1 month",
-    "12 months",
-    "Aug-25",
-    "Aug-26",
-    "Jul-26",
-    "Weights",
-    "on Aug. 2025",
-    "on Jul. 2026"
+    "6202",
+    "HTNOM",
+    "LUJ",
+    "NUJ",
+    "OGA",
+    "SIHT",
+    "STHGIEW",
+    "TSAL"
    ],
    "values": {
-    "alcoholic-beverages-tobacco-and-narcotics": [
-     0.1,
-     0.7,
-     261.6,
-     286.9,
-     283.4,
-     5,
-     9.7,
-     1.2
+    "1-food-non-alcoholic-beverages": [
+     161.4,
+     162.4,
+     159.0,
+     2.2,
+     6.6,
+     161.9,
+     13.55,
+     0.3
     ],
-    "bread-and-cereals": [
-     0.0,
-     0.4,
-     197.4,
-     211.3,
-     210.0,
-     5,
-     7.1,
-     0.6
-    ],
-    "clothing-and-footwear": [
-     0.0,
-     0.2,
-     168.4,
-     177.2,
-     176.9,
-     5,
-     5.2,
+    "1-1-bread-cereals": [
+     167.3,
+     166.1,
+     169.1,
+     -1.7,
+     1.7,
+     165.7,
+     4.26,
      0.2
     ],
-    "communication": [
-     0.0,
-     0.1,
-     114.3,
-     117.9,
-     118.2,
-     3,
-     3.2,
-     -0.3
-    ],
-    "education": [
-     0.0,
-     0.3,
-     155.5,
-     176.2,
-     176.2,
-     3,
-     13.3,
-     0.0
-    ],
-    "food-and-non-alcoholic-beverages": [
-     1.3,
-     5.7,
-     241.4,
-     280.7,
-     270.7,
-     27,
-     16.3,
-     3.7
-    ],
-    "furnishings-household-equipment-and-routine-household-maintenance": [
-     0.0,
-     0.2,
-     173.4,
-     184.3,
-     183.2,
-     4,
-     6.3,
-     0.6
-    ],
-    "nat": [
-     1.8,
-     15.7,
-     188.3,
-     217.8,
-     214.0,
-     100,
-     15.7,
-     1.8
-    ],
-    "health": [
-     0.0,
-     0.0,
-     193.4,
-     195.6,
-     195.5,
-     1,
-     1.2,
-     0.0
-    ],
-    "housing-water-electricity-gas-and-other-fuels": [
-     0.0,
-     3.3,
-     144.3,
-     173.8,
+    "1-2-meat-fresh-chilled-frozen": [
+     169.3,
+     174.0,
+     164.9,
+     5.5,
+     12.7,
      173.5,
-     21,
-     20.4,
-     0.2
+     2.36,
+     0.3
     ],
-    "meat": [
-     0.1,
-     1.1,
-     297.5,
-     406.6,
-     398.4,
-     2,
-     36.7,
-     2.1
+    "1-3-fish-fresh-chilled-frozen": [
+     157.1,
+     162.0,
+     155.4,
+     4.3,
+     16.2,
+     161.0,
+     0.18,
+     0.6
     ],
-    "milk-cheese-and-eggs": [
-     0.0,
-     0.1,
-     216.8,
-     228.2,
-     227.9,
-     1,
-     5.3,
-     0.1
-    ],
-    "miscellaneous-goods-and-services": [
-     0.2,
-     0.7,
-     147.1,
-     166.7,
-     160.5,
-     6,
-     13.3,
-     3.9
-    ],
-    "non-alcoholic-beverages": [
-     0.0,
-     0.1,
-     208.2,
-     225.6,
-     223.9,
-     1,
-     8.4,
-     0.8
-    ],
-    "recreation-and-culture": [
-     0.0,
-     0.1,
-     154.0,
-     162.6,
-     162.2,
-     3,
-     5.6,
-     0.2
-    ],
-    "restaurants-and-hotels": [
-     0.2,
-     1.3,
-     172.1,
-     199.0,
-     195.0,
-     9,
-     15.6,
-     2.0
-    ],
-    "transport": [
-     0.0,
-     3.2,
-     201.0,
-     249.6,
-     249.2,
-     12,
-     24.2,
-     0.2
-    ],
-    "vegetables": [
-     0.9,
-     3.1,
-     269.4,
-     336.0,
-     313.6,
-     9,
-     24.7,
-     7.1
+    "1-4-milk-cheese-milk-products": [
+     149.1,
+     148.7,
+     149.2,
+     -0.3,
+     6.4,
+     149.1,
+     0.98,
+     -0.3
     ]
    }
   }
  },
  "views": [
   {
-   "id": "cpi_urban_index",
-   "chart": "bar",
+   "id": "cpi",
+   "chart": "grouped",
    "tab": {
-    "en": "Urban CPI",
-    "fr": "IPC urbain"
+    "en": "CPI by group",
+    "fr": "IPC par groupe"
    },
    "title": {
-    "en": "Consumer Price Index – Urban Index",
-    "fr": "Indice des prix à la consommation – Indice urbain"
+    "en": "Consumer Price Index – Group and Section",
+    "fr": "Indice des prix à la consommation – Groupe et section"
    },
    "sub": {
-    "en": "Latest available period",
-    "fr": "Période la plus récente"
+    "en": "Indices for food & non‑alcoholic beverages and its sub‑categories.",
+    "fr": "Indices pour l'alimentation et les boissons non alcoolisées et leurs sous‑catégories."
    },
    "lede": {
-    "en": "The GENERAL INDEX shows the overall movement of urban consumer prices.",
-    "fr": "L’INDEX GÉNÉRAL reflète l’évolution globale des prix à la consommation urbains."
+    "en": "All indices are expressed relative to December 2018 = 100.",
+    "fr": "Tous les indices sont exprimés par rapport à décembre 2018 = 100."
    },
    "src": {
-    "en": "National Institute of Statistics, Rwanda",
-    "fr": "Institut national de la statistique, Rwanda"
+    "en": "National Statistical Institute",
+    "fr": "Institut national de la statistique"
    }
   }
  ],
  "facts": [
   {
-   "indicator": "cpi_urban_index",
-   "area": "nat",
-   "period": "Weights",
-   "value": 100,
+   "indicator": "cpi",
+   "area": "1-food-non-alcoholic-beverages",
+   "period": "STHGIEW",
+   "value": 13.55,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "",
+    "fr": ""
    },
    "page": 10,
-   "snippet": "00 GENERAL INDEX 100% 188.3 214.0 217.8 1.8% 15.7% 1.8% 15.7%",
+   "snippet": "1 Food & Non-Alcoholic Beverages 13.55 162.4 161.9 161.4 159.0 152.3 0.3 0.6 2.2 6.6",
    "status": "ok",
    "note": null
   },
   {
-   "indicator": "cpi_urban_index",
-   "area": "nat",
-   "period": "Aug-25",
-   "value": 188.3,
+   "indicator": "cpi",
+   "area": "1-food-non-alcoholic-beverages",
+   "period": "HTNOM",
+   "value": 162.4,
    "unit": {
     "en": "",
     "fr": ""
    },
    "page": 10,
-   "snippet": "00 GENERAL INDEX 100% 188.3 214.0 217.8 1.8% 15.7% 1.8% 15.7%",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 188.3 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 188.3 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "nat",
-   "period": "Jul-26",
-   "value": 214.0,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "00 GENERAL INDEX 100% 188.3 214.0 217.8 1.8% 15.7% 1.8% 15.7%",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 214.0 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 214.0 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "nat",
-   "period": "Aug-26",
-   "value": 217.8,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "00 GENERAL INDEX 100% 188.3 214.0 217.8 1.8% 15.7% 1.8% 15.7%",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 217.8 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 217.8 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "nat",
-   "period": "on Jul. 2026",
-   "value": 1.8,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "00 GENERAL INDEX 100% 188.3 214.0 217.8 1.8% 15.7% 1.8% 15.7%",
+   "snippet": "1 Food & Non-Alcoholic Beverages 13.55 162.4 161.9 161.4 159.0 152.3 0.3 0.6 2.2 6.6",
    "status": "ok",
    "note": null
   },
   {
-   "indicator": "cpi_urban_index",
-   "area": "nat",
-   "period": "on Aug. 2025",
-   "value": 15.7,
+   "indicator": "cpi",
+   "area": "1-food-non-alcoholic-beverages",
+   "period": "SIHT",
+   "value": 161.9,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "",
+    "fr": ""
    },
    "page": 10,
-   "snippet": "00 GENERAL INDEX 100% 188.3 214.0 217.8 1.8% 15.7% 1.8% 15.7%",
+   "snippet": "1 Food & Non-Alcoholic Beverages 13.55 162.4 161.9 161.4 159.0 152.3 0.3 0.6 2.2 6.6",
    "status": "ok",
    "note": null
   },
   {
-   "indicator": "cpi_urban_index",
-   "area": "nat",
-   "period": "1 month",
-   "value": 1.8,
+   "indicator": "cpi",
+   "area": "1-food-non-alcoholic-beverages",
+   "period": "6202",
+   "value": 161.4,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "",
+    "fr": ""
    },
    "page": 10,
-   "snippet": "00 GENERAL INDEX 100% 188.3 214.0 217.8 1.8% 15.7% 1.8% 15.7%",
-   "status": "warn",
-   "note": {
-    "en": "parts sum to 2.8 but the document publishes 1.8",
-    "fr": "parts sum to 2.8 but the document publishes 1.8"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "nat",
-   "period": "12 months",
-   "value": 15.7,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "00 GENERAL INDEX 100% 188.3 214.0 217.8 1.8% 15.7% 1.8% 15.7%",
-   "status": "warn",
-   "note": {
-    "en": "parts sum to 20.6 but the document publishes 15.7",
-    "fr": "parts sum to 20.6 but the document publishes 15.7"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "food-and-non-alcoholic-beverages",
-   "period": "Weights",
-   "value": 27,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "01 Food and non-alcoholic beverages 27% 241.4 270.7 280.7 3.7% 16.3% 1.3 5.7",
+   "snippet": "1 Food & Non-Alcoholic Beverages 13.55 162.4 161.9 161.4 159.0 152.3 0.3 0.6 2.2 6.6",
    "status": "ok",
    "note": null
   },
   {
-   "indicator": "cpi_urban_index",
-   "area": "food-and-non-alcoholic-beverages",
-   "period": "Aug-25",
-   "value": 241.4,
+   "indicator": "cpi",
+   "area": "1-food-non-alcoholic-beverages",
+   "period": "LUJ",
+   "value": 159.0,
    "unit": {
     "en": "",
     "fr": ""
    },
    "page": 10,
-   "snippet": "01 Food and non-alcoholic beverages 27% 241.4 270.7 280.7 3.7% 16.3% 1.3 5.7",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 241.4 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 241.4 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "food-and-non-alcoholic-beverages",
-   "period": "Jul-26",
-   "value": 270.7,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "01 Food and non-alcoholic beverages 27% 241.4 270.7 280.7 3.7% 16.3% 1.3 5.7",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 270.7 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 270.7 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "food-and-non-alcoholic-beverages",
-   "period": "Aug-26",
-   "value": 280.7,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "01 Food and non-alcoholic beverages 27% 241.4 270.7 280.7 3.7% 16.3% 1.3 5.7",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 280.7 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 280.7 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "food-and-non-alcoholic-beverages",
-   "period": "on Jul. 2026",
-   "value": 3.7,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "01 Food and non-alcoholic beverages 27% 241.4 270.7 280.7 3.7% 16.3% 1.3 5.7",
+   "snippet": "1 Food & Non-Alcoholic Beverages 13.55 162.4 161.9 161.4 159.0 152.3 0.3 0.6 2.2 6.6",
    "status": "ok",
    "note": null
   },
   {
-   "indicator": "cpi_urban_index",
-   "area": "food-and-non-alcoholic-beverages",
-   "period": "on Aug. 2025",
-   "value": 16.3,
+   "indicator": "cpi",
+   "area": "1-food-non-alcoholic-beverages",
+   "period": "HTNOM",
+   "value": 152.3,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "",
+    "fr": ""
    },
    "page": 10,
-   "snippet": "01 Food and non-alcoholic beverages 27% 241.4 270.7 280.7 3.7% 16.3% 1.3 5.7",
+   "snippet": "1 Food & Non-Alcoholic Beverages 13.55 162.4 161.9 161.4 159.0 152.3 0.3 0.6 2.2 6.6",
    "status": "ok",
    "note": null
   },
   {
-   "indicator": "cpi_urban_index",
-   "area": "food-and-non-alcoholic-beverages",
-   "period": "1 month",
-   "value": 1.3,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "01 Food and non-alcoholic beverages 27% 241.4 270.7 280.7 3.7% 16.3% 1.3 5.7",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index · parts sum to 2.8 but the document publishes 1.8 · re-read this cell: 0.3 is printed on page 10 and would close the gap",
-    "fr": "unit '' not allowed for cpi_urban_index · parts sum to 2.8 but the document publishes 1.8 · re-read this cell: 0.3 is printed on page 10 and would close the gap"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "food-and-non-alcoholic-beverages",
-   "period": "12 months",
-   "value": 5.7,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "01 Food and non-alcoholic beverages 27% 241.4 270.7 280.7 3.7% 16.3% 1.3 5.7",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index · parts sum to 20.6 but the document publishes 15.7 · re-read this cell: 0.8 is printed on page 10 and would close the gap",
-    "fr": "unit '' not allowed for cpi_urban_index · parts sum to 20.6 but the document publishes 15.7 · re-read this cell: 0.8 is printed on page 10 and would close the gap"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "bread-and-cereals",
-   "period": "Weights",
-   "value": 5,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "01.1.1 Bread and cereals 5% 197.4 210.0 211.3 0.6% 7.1% 0.0 0.4",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "bread-and-cereals",
-   "period": "Aug-25",
-   "value": 197.4,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "01.1.1 Bread and cereals 5% 197.4 210.0 211.3 0.6% 7.1% 0.0 0.4",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 197.4 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 197.4 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "bread-and-cereals",
-   "period": "Jul-26",
-   "value": 210.0,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "01.1.1 Bread and cereals 5% 197.4 210.0 211.3 0.6% 7.1% 0.0 0.4",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 210.0 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 210.0 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "bread-and-cereals",
-   "period": "Aug-26",
-   "value": 211.3,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "01.1.1 Bread and cereals 5% 197.4 210.0 211.3 0.6% 7.1% 0.0 0.4",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 211.3 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 211.3 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "bread-and-cereals",
-   "period": "on Jul. 2026",
-   "value": 0.6,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "01.1.1 Bread and cereals 5% 197.4 210.0 211.3 0.6% 7.1% 0.0 0.4",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "bread-and-cereals",
-   "period": "on Aug. 2025",
-   "value": 7.1,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "01.1.1 Bread and cereals 5% 197.4 210.0 211.3 0.6% 7.1% 0.0 0.4",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "bread-and-cereals",
-   "period": "1 month",
-   "value": 0.0,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "01.1.1 Bread and cereals 5% 197.4 210.0 211.3 0.6% 7.1% 0.0 0.4",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index · parts sum to 2.8 but the document publishes 1.8 · re-read this cell: -1.0 is printed on page 10 and would close the gap",
-    "fr": "unit '' not allowed for cpi_urban_index · parts sum to 2.8 but the document publishes 1.8 · re-read this cell: -1.0 is printed on page 10 and would close the gap"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "bread-and-cereals",
-   "period": "12 months",
-   "value": 0.4,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "01.1.1 Bread and cereals 5% 197.4 210.0 211.3 0.6% 7.1% 0.0 0.4",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index · parts sum to 20.6 but the document publishes 15.7",
-    "fr": "unit '' not allowed for cpi_urban_index · parts sum to 20.6 but the document publishes 15.7"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "meat",
-   "period": "Weights",
-   "value": 2,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "01.1.2 Meat 2% 297.5 398.4 406.6 2.1% 36.7% 0.1 1.1",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "meat",
-   "period": "Aug-25",
-   "value": 297.5,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "01.1.2 Meat 2% 297.5 398.4 406.6 2.1% 36.7% 0.1 1.1",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 297.5 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 297.5 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "meat",
-   "period": "Jul-26",
-   "value": 398.4,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "01.1.2 Meat 2% 297.5 398.4 406.6 2.1% 36.7% 0.1 1.1",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 398.4 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 398.4 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "meat",
-   "period": "Aug-26",
-   "value": 406.6,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "01.1.2 Meat 2% 297.5 398.4 406.6 2.1% 36.7% 0.1 1.1",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 406.6 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 406.6 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "meat",
-   "period": "on Jul. 2026",
-   "value": 2.1,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "01.1.2 Meat 2% 297.5 398.4 406.6 2.1% 36.7% 0.1 1.1",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "meat",
-   "period": "on Aug. 2025",
-   "value": 36.7,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "01.1.2 Meat 2% 297.5 398.4 406.6 2.1% 36.7% 0.1 1.1",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "meat",
-   "period": "1 month",
-   "value": 0.1,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "01.1.2 Meat 2% 297.5 398.4 406.6 2.1% 36.7% 0.1 1.1",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index · parts sum to 2.8 but the document publishes 1.8 · re-read this cell: -0.9 is printed on page 10 and would close the gap",
-    "fr": "unit '' not allowed for cpi_urban_index · parts sum to 2.8 but the document publishes 1.8 · re-read this cell: -0.9 is printed on page 10 and would close the gap"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "meat",
-   "period": "12 months",
-   "value": 1.1,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "01.1.2 Meat 2% 297.5 398.4 406.6 2.1% 36.7% 0.1 1.1",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index · parts sum to 20.6 but the document publishes 15.7",
-    "fr": "unit '' not allowed for cpi_urban_index · parts sum to 20.6 but the document publishes 15.7"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "milk-cheese-and-eggs",
-   "period": "Weights",
-   "value": 1,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "01.1.4 Milk cheese and eggs 1% 216.8 227.9 228.2 0.1% 5.3% 0.0 0.1",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "milk-cheese-and-eggs",
-   "period": "Aug-25",
-   "value": 216.8,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "01.1.4 Milk cheese and eggs 1% 216.8 227.9 228.2 0.1% 5.3% 0.0 0.1",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 216.8 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 216.8 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "milk-cheese-and-eggs",
-   "period": "Jul-26",
-   "value": 227.9,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "01.1.4 Milk cheese and eggs 1% 216.8 227.9 228.2 0.1% 5.3% 0.0 0.1",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 227.9 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 227.9 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "milk-cheese-and-eggs",
-   "period": "Aug-26",
-   "value": 228.2,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "01.1.4 Milk cheese and eggs 1% 216.8 227.9 228.2 0.1% 5.3% 0.0 0.1",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 228.2 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 228.2 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "milk-cheese-and-eggs",
-   "period": "on Jul. 2026",
-   "value": 0.1,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "01.1.4 Milk cheese and eggs 1% 216.8 227.9 228.2 0.1% 5.3% 0.0 0.1",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "milk-cheese-and-eggs",
-   "period": "on Aug. 2025",
-   "value": 5.3,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "01.1.4 Milk cheese and eggs 1% 216.8 227.9 228.2 0.1% 5.3% 0.0 0.1",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "milk-cheese-and-eggs",
-   "period": "1 month",
-   "value": 0.0,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "01.1.4 Milk cheese and eggs 1% 216.8 227.9 228.2 0.1% 5.3% 0.0 0.1",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index · parts sum to 2.8 but the document publishes 1.8",
-    "fr": "unit '' not allowed for cpi_urban_index · parts sum to 2.8 but the document publishes 1.8"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "milk-cheese-and-eggs",
-   "period": "12 months",
-   "value": 0.1,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "01.1.4 Milk cheese and eggs 1% 216.8 227.9 228.2 0.1% 5.3% 0.0 0.1",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index · parts sum to 20.6 but the document publishes 15.7",
-    "fr": "unit '' not allowed for cpi_urban_index · parts sum to 20.6 but the document publishes 15.7"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "vegetables",
-   "period": "Weights",
-   "value": 9,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "01.1.7 Vegetables 9% 269.4 313.6 336.0 7.1% 24.7% 0.9 3.1",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "vegetables",
-   "period": "Aug-25",
-   "value": 269.4,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "01.1.7 Vegetables 9% 269.4 313.6 336.0 7.1% 24.7% 0.9 3.1",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 269.4 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 269.4 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "vegetables",
-   "period": "Jul-26",
-   "value": 313.6,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "01.1.7 Vegetables 9% 269.4 313.6 336.0 7.1% 24.7% 0.9 3.1",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 313.6 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 313.6 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "vegetables",
-   "period": "Aug-26",
-   "value": 336.0,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "01.1.7 Vegetables 9% 269.4 313.6 336.0 7.1% 24.7% 0.9 3.1",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 336.0 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 336.0 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "vegetables",
-   "period": "on Jul. 2026",
-   "value": 7.1,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "01.1.7 Vegetables 9% 269.4 313.6 336.0 7.1% 24.7% 0.9 3.1",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "vegetables",
-   "period": "on Aug. 2025",
-   "value": 24.7,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "01.1.7 Vegetables 9% 269.4 313.6 336.0 7.1% 24.7% 0.9 3.1",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "vegetables",
-   "period": "1 month",
-   "value": 0.9,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "01.1.7 Vegetables 9% 269.4 313.6 336.0 7.1% 24.7% 0.9 3.1",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index · parts sum to 2.8 but the document publishes 1.8",
-    "fr": "unit '' not allowed for cpi_urban_index · parts sum to 2.8 but the document publishes 1.8"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "vegetables",
-   "period": "12 months",
-   "value": 3.1,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "01.1.7 Vegetables 9% 269.4 313.6 336.0 7.1% 24.7% 0.9 3.1",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index · parts sum to 20.6 but the document publishes 15.7 · re-read this cell: -1.8 is printed on page 10 and would close the gap",
-    "fr": "unit '' not allowed for cpi_urban_index · parts sum to 20.6 but the document publishes 15.7 · re-read this cell: -1.8 is printed on page 10 and would close the gap"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "non-alcoholic-beverages",
-   "period": "Weights",
-   "value": 1,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "01.2 Non-alcoholic beverages 1% 208.2 223.9 225.6 0.8% 8.4% 0.0 0.1",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "non-alcoholic-beverages",
-   "period": "Aug-25",
-   "value": 208.2,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "01.2 Non-alcoholic beverages 1% 208.2 223.9 225.6 0.8% 8.4% 0.0 0.1",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 208.2 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 208.2 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "non-alcoholic-beverages",
-   "period": "Jul-26",
-   "value": 223.9,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "01.2 Non-alcoholic beverages 1% 208.2 223.9 225.6 0.8% 8.4% 0.0 0.1",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 223.9 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 223.9 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "non-alcoholic-beverages",
-   "period": "Aug-26",
-   "value": 225.6,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "01.2 Non-alcoholic beverages 1% 208.2 223.9 225.6 0.8% 8.4% 0.0 0.1",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 225.6 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 225.6 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "non-alcoholic-beverages",
-   "period": "on Jul. 2026",
-   "value": 0.8,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "01.2 Non-alcoholic beverages 1% 208.2 223.9 225.6 0.8% 8.4% 0.0 0.1",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "non-alcoholic-beverages",
-   "period": "on Aug. 2025",
-   "value": 8.4,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "01.2 Non-alcoholic beverages 1% 208.2 223.9 225.6 0.8% 8.4% 0.0 0.1",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "non-alcoholic-beverages",
-   "period": "1 month",
-   "value": 0.0,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "01.2 Non-alcoholic beverages 1% 208.2 223.9 225.6 0.8% 8.4% 0.0 0.1",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index · parts sum to 2.8 but the document publishes 1.8",
-    "fr": "unit '' not allowed for cpi_urban_index · parts sum to 2.8 but the document publishes 1.8"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "non-alcoholic-beverages",
-   "period": "12 months",
-   "value": 0.1,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "01.2 Non-alcoholic beverages 1% 208.2 223.9 225.6 0.8% 8.4% 0.0 0.1",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index · parts sum to 20.6 but the document publishes 15.7",
-    "fr": "unit '' not allowed for cpi_urban_index · parts sum to 20.6 but the document publishes 15.7"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "alcoholic-beverages-tobacco-and-narcotics",
-   "period": "Weights",
-   "value": 5,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "02 Alcoholic beverages tobacco and narcotics 5% 261.6 283.4 286.9 1.2% 9.7% 0.1 0.7",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "alcoholic-beverages-tobacco-and-narcotics",
-   "period": "Aug-25",
-   "value": 261.6,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "02 Alcoholic beverages tobacco and narcotics 5% 261.6 283.4 286.9 1.2% 9.7% 0.1 0.7",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 261.6 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 261.6 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "alcoholic-beverages-tobacco-and-narcotics",
-   "period": "Jul-26",
-   "value": 283.4,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "02 Alcoholic beverages tobacco and narcotics 5% 261.6 283.4 286.9 1.2% 9.7% 0.1 0.7",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 283.4 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 283.4 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "alcoholic-beverages-tobacco-and-narcotics",
-   "period": "Aug-26",
-   "value": 286.9,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "02 Alcoholic beverages tobacco and narcotics 5% 261.6 283.4 286.9 1.2% 9.7% 0.1 0.7",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 286.9 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 286.9 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "alcoholic-beverages-tobacco-and-narcotics",
-   "period": "on Jul. 2026",
-   "value": 1.2,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "02 Alcoholic beverages tobacco and narcotics 5% 261.6 283.4 286.9 1.2% 9.7% 0.1 0.7",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "alcoholic-beverages-tobacco-and-narcotics",
-   "period": "on Aug. 2025",
-   "value": 9.7,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "02 Alcoholic beverages tobacco and narcotics 5% 261.6 283.4 286.9 1.2% 9.7% 0.1 0.7",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "alcoholic-beverages-tobacco-and-narcotics",
-   "period": "1 month",
-   "value": 0.1,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "02 Alcoholic beverages tobacco and narcotics 5% 261.6 283.4 286.9 1.2% 9.7% 0.1 0.7",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index · parts sum to 2.8 but the document publishes 1.8",
-    "fr": "unit '' not allowed for cpi_urban_index · parts sum to 2.8 but the document publishes 1.8"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "alcoholic-beverages-tobacco-and-narcotics",
-   "period": "12 months",
-   "value": 0.7,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "02 Alcoholic beverages tobacco and narcotics 5% 261.6 283.4 286.9 1.2% 9.7% 0.1 0.7",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index · parts sum to 20.6 but the document publishes 15.7",
-    "fr": "unit '' not allowed for cpi_urban_index · parts sum to 20.6 but the document publishes 15.7"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "clothing-and-footwear",
-   "period": "Weights",
-   "value": 5,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "03 Clothing and footwear 5% 168.4 176.9 177.2 0.2% 5.2% 0.0 0.2",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "clothing-and-footwear",
-   "period": "Aug-25",
-   "value": 168.4,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "03 Clothing and footwear 5% 168.4 176.9 177.2 0.2% 5.2% 0.0 0.2",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 168.4 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 168.4 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "clothing-and-footwear",
-   "period": "Jul-26",
-   "value": 176.9,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "03 Clothing and footwear 5% 168.4 176.9 177.2 0.2% 5.2% 0.0 0.2",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 176.9 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 176.9 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "clothing-and-footwear",
-   "period": "Aug-26",
-   "value": 177.2,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "03 Clothing and footwear 5% 168.4 176.9 177.2 0.2% 5.2% 0.0 0.2",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 177.2 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 177.2 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "clothing-and-footwear",
-   "period": "on Jul. 2026",
-   "value": 0.2,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "03 Clothing and footwear 5% 168.4 176.9 177.2 0.2% 5.2% 0.0 0.2",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "clothing-and-footwear",
-   "period": "on Aug. 2025",
-   "value": 5.2,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "03 Clothing and footwear 5% 168.4 176.9 177.2 0.2% 5.2% 0.0 0.2",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "clothing-and-footwear",
-   "period": "1 month",
-   "value": 0.0,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "03 Clothing and footwear 5% 168.4 176.9 177.2 0.2% 5.2% 0.0 0.2",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index · parts sum to 2.8 but the document publishes 1.8",
-    "fr": "unit '' not allowed for cpi_urban_index · parts sum to 2.8 but the document publishes 1.8"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "clothing-and-footwear",
-   "period": "12 months",
-   "value": 0.2,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "03 Clothing and footwear 5% 168.4 176.9 177.2 0.2% 5.2% 0.0 0.2",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index · parts sum to 20.6 but the document publishes 15.7",
-    "fr": "unit '' not allowed for cpi_urban_index · parts sum to 20.6 but the document publishes 15.7"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "housing-water-electricity-gas-and-other-fuels",
-   "period": "Weights",
-   "value": 21,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "04 Housing water, electricity, gas and other fuels 21% 144.3 173.5 173.8 0.2% 20.4% 0.0 3.3",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "housing-water-electricity-gas-and-other-fuels",
-   "period": "Aug-25",
-   "value": 144.3,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "04 Housing water, electricity, gas and other fuels 21% 144.3 173.5 173.8 0.2% 20.4% 0.0 3.3",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 144.3 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 144.3 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "housing-water-electricity-gas-and-other-fuels",
-   "period": "Jul-26",
-   "value": 173.5,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "04 Housing water, electricity, gas and other fuels 21% 144.3 173.5 173.8 0.2% 20.4% 0.0 3.3",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 173.5 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 173.5 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "housing-water-electricity-gas-and-other-fuels",
-   "period": "Aug-26",
-   "value": 173.8,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "04 Housing water, electricity, gas and other fuels 21% 144.3 173.5 173.8 0.2% 20.4% 0.0 3.3",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 173.8 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 173.8 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "housing-water-electricity-gas-and-other-fuels",
-   "period": "on Jul. 2026",
-   "value": 0.2,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "04 Housing water, electricity, gas and other fuels 21% 144.3 173.5 173.8 0.2% 20.4% 0.0 3.3",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "housing-water-electricity-gas-and-other-fuels",
-   "period": "on Aug. 2025",
-   "value": 20.4,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "04 Housing water, electricity, gas and other fuels 21% 144.3 173.5 173.8 0.2% 20.4% 0.0 3.3",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "housing-water-electricity-gas-and-other-fuels",
-   "period": "1 month",
-   "value": 0.0,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "04 Housing water, electricity, gas and other fuels 21% 144.3 173.5 173.8 0.2% 20.4% 0.0 3.3",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index · parts sum to 2.8 but the document publishes 1.8",
-    "fr": "unit '' not allowed for cpi_urban_index · parts sum to 2.8 but the document publishes 1.8"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "housing-water-electricity-gas-and-other-fuels",
-   "period": "12 months",
-   "value": 3.3,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "04 Housing water, electricity, gas and other fuels 21% 144.3 173.5 173.8 0.2% 20.4% 0.0 3.3",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index · parts sum to 20.6 but the document publishes 15.7",
-    "fr": "unit '' not allowed for cpi_urban_index · parts sum to 20.6 but the document publishes 15.7"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "furnishings-household-equipment-and-routine-household-maintenance",
-   "period": "Weights",
-   "value": 4,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "05 Furnishings household equipment and routine household maintenance 4% 173.4 183.2 184.3 0.6% 6.3% 0.0 0.2",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "furnishings-household-equipment-and-routine-household-maintenance",
-   "period": "Aug-25",
-   "value": 173.4,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "05 Furnishings household equipment and routine household maintenance 4% 173.4 183.2 184.3 0.6% 6.3% 0.0 0.2",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 173.4 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 173.4 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "furnishings-household-equipment-and-routine-household-maintenance",
-   "period": "Jul-26",
-   "value": 183.2,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "05 Furnishings household equipment and routine household maintenance 4% 173.4 183.2 184.3 0.6% 6.3% 0.0 0.2",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 183.2 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 183.2 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "furnishings-household-equipment-and-routine-household-maintenance",
-   "period": "Aug-26",
-   "value": 184.3,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "05 Furnishings household equipment and routine household maintenance 4% 173.4 183.2 184.3 0.6% 6.3% 0.0 0.2",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 184.3 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 184.3 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "furnishings-household-equipment-and-routine-household-maintenance",
-   "period": "on Jul. 2026",
-   "value": 0.6,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "05 Furnishings household equipment and routine household maintenance 4% 173.4 183.2 184.3 0.6% 6.3% 0.0 0.2",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "furnishings-household-equipment-and-routine-household-maintenance",
-   "period": "on Aug. 2025",
-   "value": 6.3,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "05 Furnishings household equipment and routine household maintenance 4% 173.4 183.2 184.3 0.6% 6.3% 0.0 0.2",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "furnishings-household-equipment-and-routine-household-maintenance",
-   "period": "1 month",
-   "value": 0.0,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "05 Furnishings household equipment and routine household maintenance 4% 173.4 183.2 184.3 0.6% 6.3% 0.0 0.2",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index · parts sum to 2.8 but the document publishes 1.8",
-    "fr": "unit '' not allowed for cpi_urban_index · parts sum to 2.8 but the document publishes 1.8"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "furnishings-household-equipment-and-routine-household-maintenance",
-   "period": "12 months",
-   "value": 0.2,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "05 Furnishings household equipment and routine household maintenance 4% 173.4 183.2 184.3 0.6% 6.3% 0.0 0.2",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index · parts sum to 20.6 but the document publishes 15.7",
-    "fr": "unit '' not allowed for cpi_urban_index · parts sum to 20.6 but the document publishes 15.7"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "health",
-   "period": "Weights",
-   "value": 1,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "06 Health 1% 193.4 195.5 195.6 0.0% 1.2% 0.0 0.0",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "health",
-   "period": "Aug-25",
-   "value": 193.4,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "06 Health 1% 193.4 195.5 195.6 0.0% 1.2% 0.0 0.0",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 193.4 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 193.4 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "health",
-   "period": "Jul-26",
-   "value": 195.5,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "06 Health 1% 193.4 195.5 195.6 0.0% 1.2% 0.0 0.0",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 195.5 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 195.5 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "health",
-   "period": "Aug-26",
-   "value": 195.6,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "06 Health 1% 193.4 195.5 195.6 0.0% 1.2% 0.0 0.0",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 195.6 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 195.6 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "health",
-   "period": "on Jul. 2026",
-   "value": 0.0,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "06 Health 1% 193.4 195.5 195.6 0.0% 1.2% 0.0 0.0",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "health",
-   "period": "on Aug. 2025",
-   "value": 1.2,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "06 Health 1% 193.4 195.5 195.6 0.0% 1.2% 0.0 0.0",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "health",
-   "period": "1 month",
-   "value": 0.0,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "06 Health 1% 193.4 195.5 195.6 0.0% 1.2% 0.0 0.0",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index · parts sum to 2.8 but the document publishes 1.8",
-    "fr": "unit '' not allowed for cpi_urban_index · parts sum to 2.8 but the document publishes 1.8"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "health",
-   "period": "12 months",
-   "value": 0.0,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "06 Health 1% 193.4 195.5 195.6 0.0% 1.2% 0.0 0.0",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index · parts sum to 20.6 but the document publishes 15.7",
-    "fr": "unit '' not allowed for cpi_urban_index · parts sum to 20.6 but the document publishes 15.7"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "transport",
-   "period": "Weights",
-   "value": 12,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "07 Transport 12% 201.0 249.2 249.6 0.2% 24.2% 0.0 3.2",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "transport",
-   "period": "Aug-25",
-   "value": 201.0,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "07 Transport 12% 201.0 249.2 249.6 0.2% 24.2% 0.0 3.2",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 201.0 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 201.0 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "transport",
-   "period": "Jul-26",
-   "value": 249.2,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "07 Transport 12% 201.0 249.2 249.6 0.2% 24.2% 0.0 3.2",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 249.2 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 249.2 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "transport",
-   "period": "Aug-26",
-   "value": 249.6,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "07 Transport 12% 201.0 249.2 249.6 0.2% 24.2% 0.0 3.2",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 249.6 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 249.6 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "transport",
-   "period": "on Jul. 2026",
-   "value": 0.2,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "07 Transport 12% 201.0 249.2 249.6 0.2% 24.2% 0.0 3.2",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "transport",
-   "period": "on Aug. 2025",
-   "value": 24.2,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "07 Transport 12% 201.0 249.2 249.6 0.2% 24.2% 0.0 3.2",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "transport",
-   "period": "1 month",
-   "value": 0.0,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "07 Transport 12% 201.0 249.2 249.6 0.2% 24.2% 0.0 3.2",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index · parts sum to 2.8 but the document publishes 1.8",
-    "fr": "unit '' not allowed for cpi_urban_index · parts sum to 2.8 but the document publishes 1.8"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "transport",
-   "period": "12 months",
-   "value": 3.2,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "07 Transport 12% 201.0 249.2 249.6 0.2% 24.2% 0.0 3.2",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index · parts sum to 20.6 but the document publishes 15.7",
-    "fr": "unit '' not allowed for cpi_urban_index · parts sum to 20.6 but the document publishes 15.7"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "communication",
-   "period": "Weights",
-   "value": 3,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "08 Communication 3% 114.3 118.2 117.9 -0.3% 3.2% 0.0 0.1",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "communication",
-   "period": "Aug-25",
-   "value": 114.3,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "08 Communication 3% 114.3 118.2 117.9 -0.3% 3.2% 0.0 0.1",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 114.3 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 114.3 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "communication",
-   "period": "Jul-26",
-   "value": 118.2,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "08 Communication 3% 114.3 118.2 117.9 -0.3% 3.2% 0.0 0.1",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 118.2 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 118.2 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "communication",
-   "period": "Aug-26",
-   "value": 117.9,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "08 Communication 3% 114.3 118.2 117.9 -0.3% 3.2% 0.0 0.1",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 117.9 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 117.9 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "communication",
-   "period": "on Jul. 2026",
-   "value": -0.3,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "08 Communication 3% 114.3 118.2 117.9 -0.3% 3.2% 0.0 0.1",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "communication",
-   "period": "on Aug. 2025",
-   "value": 3.2,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "08 Communication 3% 114.3 118.2 117.9 -0.3% 3.2% 0.0 0.1",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "communication",
-   "period": "1 month",
-   "value": 0.0,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "08 Communication 3% 114.3 118.2 117.9 -0.3% 3.2% 0.0 0.1",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index · parts sum to 2.8 but the document publishes 1.8",
-    "fr": "unit '' not allowed for cpi_urban_index · parts sum to 2.8 but the document publishes 1.8"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "communication",
-   "period": "12 months",
-   "value": 0.1,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "08 Communication 3% 114.3 118.2 117.9 -0.3% 3.2% 0.0 0.1",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index · parts sum to 20.6 but the document publishes 15.7",
-    "fr": "unit '' not allowed for cpi_urban_index · parts sum to 20.6 but the document publishes 15.7"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "recreation-and-culture",
-   "period": "Weights",
-   "value": 3,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "09 Recreation and culture 3% 154.0 162.2 162.6 0.2% 5.6% 0.0 0.1",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "recreation-and-culture",
-   "period": "Aug-25",
-   "value": 154.0,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "09 Recreation and culture 3% 154.0 162.2 162.6 0.2% 5.6% 0.0 0.1",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 154.0 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 154.0 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "recreation-and-culture",
-   "period": "Jul-26",
-   "value": 162.2,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "09 Recreation and culture 3% 154.0 162.2 162.6 0.2% 5.6% 0.0 0.1",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 162.2 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 162.2 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "recreation-and-culture",
-   "period": "Aug-26",
-   "value": 162.6,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "09 Recreation and culture 3% 154.0 162.2 162.6 0.2% 5.6% 0.0 0.1",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 162.6 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 162.6 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "recreation-and-culture",
-   "period": "on Jul. 2026",
-   "value": 0.2,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "09 Recreation and culture 3% 154.0 162.2 162.6 0.2% 5.6% 0.0 0.1",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "recreation-and-culture",
-   "period": "on Aug. 2025",
-   "value": 5.6,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "09 Recreation and culture 3% 154.0 162.2 162.6 0.2% 5.6% 0.0 0.1",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "recreation-and-culture",
-   "period": "1 month",
-   "value": 0.0,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "09 Recreation and culture 3% 154.0 162.2 162.6 0.2% 5.6% 0.0 0.1",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index · parts sum to 2.8 but the document publishes 1.8",
-    "fr": "unit '' not allowed for cpi_urban_index · parts sum to 2.8 but the document publishes 1.8"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "recreation-and-culture",
-   "period": "12 months",
-   "value": 0.1,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "09 Recreation and culture 3% 154.0 162.2 162.6 0.2% 5.6% 0.0 0.1",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index · parts sum to 20.6 but the document publishes 15.7",
-    "fr": "unit '' not allowed for cpi_urban_index · parts sum to 20.6 but the document publishes 15.7"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "education",
-   "period": "Weights",
-   "value": 3,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "10 Education 3% 155.5 176.2 176.2 0.0% 13.3% 0.0 0.3",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "education",
-   "period": "Aug-25",
-   "value": 155.5,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "10 Education 3% 155.5 176.2 176.2 0.0% 13.3% 0.0 0.3",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 155.5 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 155.5 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "education",
-   "period": "Jul-26",
-   "value": 176.2,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "10 Education 3% 155.5 176.2 176.2 0.0% 13.3% 0.0 0.3",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 176.2 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 176.2 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "education",
-   "period": "Aug-26",
-   "value": 176.2,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "10 Education 3% 155.5 176.2 176.2 0.0% 13.3% 0.0 0.3",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 176.2 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 176.2 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "education",
-   "period": "on Jul. 2026",
-   "value": 0.0,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "10 Education 3% 155.5 176.2 176.2 0.0% 13.3% 0.0 0.3",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "education",
-   "period": "on Aug. 2025",
-   "value": 13.3,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "10 Education 3% 155.5 176.2 176.2 0.0% 13.3% 0.0 0.3",
-   "status": "ok",
-   "note": null
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "education",
-   "period": "1 month",
-   "value": 0.0,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "10 Education 3% 155.5 176.2 176.2 0.0% 13.3% 0.0 0.3",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index · parts sum to 2.8 but the document publishes 1.8",
-    "fr": "unit '' not allowed for cpi_urban_index · parts sum to 2.8 but the document publishes 1.8"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "education",
-   "period": "12 months",
+   "indicator": "cpi",
+   "area": "1-food-non-alcoholic-beverages",
+   "period": "TSAL",
    "value": 0.3,
    "unit": {
     "en": "",
     "fr": ""
    },
    "page": 10,
-   "snippet": "10 Education 3% 155.5 176.2 176.2 0.0% 13.3% 0.0 0.3",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index · parts sum to 20.6 but the document publishes 15.7",
-    "fr": "unit '' not allowed for cpi_urban_index · parts sum to 20.6 but the document publishes 15.7"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "restaurants-and-hotels",
-   "period": "Weights",
-   "value": 9,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "11 Restaurants and hotels 9% 172.1 195.0 199.0 2.0% 15.6% 0.2 1.3",
+   "snippet": "1 Food & Non-Alcoholic Beverages 13.55 162.4 161.9 161.4 159.0 152.3 0.3 0.6 2.2 6.6",
    "status": "ok",
    "note": null
   },
   {
-   "indicator": "cpi_urban_index",
-   "area": "restaurants-and-hotels",
-   "period": "Aug-25",
-   "value": 172.1,
+   "indicator": "cpi",
+   "area": "1-food-non-alcoholic-beverages",
+   "period": "6202",
+   "value": 0.6,
    "unit": {
     "en": "",
     "fr": ""
    },
    "page": 10,
-   "snippet": "11 Restaurants and hotels 9% 172.1 195.0 199.0 2.0% 15.6% 0.2 1.3",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 172.1 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 172.1 is outside the plausible range for cpi_urban_index"
-   }
+   "snippet": "1 Food & Non-Alcoholic Beverages 13.55 162.4 161.9 161.4 159.0 152.3 0.3 0.6 2.2 6.6",
+   "status": "ok",
+   "note": null
   },
   {
-   "indicator": "cpi_urban_index",
-   "area": "restaurants-and-hotels",
-   "period": "Jul-26",
-   "value": 195.0,
+   "indicator": "cpi",
+   "area": "1-food-non-alcoholic-beverages",
+   "period": "NUJ",
+   "value": 2.2,
    "unit": {
     "en": "",
     "fr": ""
    },
    "page": 10,
-   "snippet": "11 Restaurants and hotels 9% 172.1 195.0 199.0 2.0% 15.6% 0.2 1.3",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 195.0 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 195.0 is outside the plausible range for cpi_urban_index"
-   }
+   "snippet": "1 Food & Non-Alcoholic Beverages 13.55 162.4 161.9 161.4 159.0 152.3 0.3 0.6 2.2 6.6",
+   "status": "ok",
+   "note": null
   },
   {
-   "indicator": "cpi_urban_index",
-   "area": "restaurants-and-hotels",
-   "period": "Aug-26",
-   "value": 199.0,
+   "indicator": "cpi",
+   "area": "1-food-non-alcoholic-beverages",
+   "period": "OGA",
+   "value": 6.6,
    "unit": {
     "en": "",
     "fr": ""
    },
    "page": 10,
-   "snippet": "11 Restaurants and hotels 9% 172.1 195.0 199.0 2.0% 15.6% 0.2 1.3",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 199.0 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 199.0 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "restaurants-and-hotels",
-   "period": "on Jul. 2026",
-   "value": 2.0,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "11 Restaurants and hotels 9% 172.1 195.0 199.0 2.0% 15.6% 0.2 1.3",
+   "snippet": "1 Food & Non-Alcoholic Beverages 13.55 162.4 161.9 161.4 159.0 152.3 0.3 0.6 2.2 6.6",
    "status": "ok",
    "note": null
   },
   {
-   "indicator": "cpi_urban_index",
-   "area": "restaurants-and-hotels",
-   "period": "on Aug. 2025",
-   "value": 15.6,
+   "indicator": "cpi",
+   "area": "1-1-bread-cereals",
+   "period": "STHGIEW",
+   "value": 4.26,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "",
+    "fr": ""
    },
    "page": 10,
-   "snippet": "11 Restaurants and hotels 9% 172.1 195.0 199.0 2.0% 15.6% 0.2 1.3",
+   "snippet": "1.1 Bread & Cereals 4.26 166.1 165.7 167.3 169.1 163.3 0.2 (0.7) (1.7) 1.7",
    "status": "ok",
    "note": null
   },
   {
-   "indicator": "cpi_urban_index",
-   "area": "restaurants-and-hotels",
-   "period": "1 month",
+   "indicator": "cpi",
+   "area": "1-1-bread-cereals",
+   "period": "HTNOM",
+   "value": 166.1,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 10,
+   "snippet": "1.1 Bread & Cereals 4.26 166.1 165.7 167.3 169.1 163.3 0.2 (0.7) (1.7) 1.7",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi",
+   "area": "1-1-bread-cereals",
+   "period": "SIHT",
+   "value": 165.7,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 10,
+   "snippet": "1.1 Bread & Cereals 4.26 166.1 165.7 167.3 169.1 163.3 0.2 (0.7) (1.7) 1.7",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi",
+   "area": "1-1-bread-cereals",
+   "period": "6202",
+   "value": 167.3,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 10,
+   "snippet": "1.1 Bread & Cereals 4.26 166.1 165.7 167.3 169.1 163.3 0.2 (0.7) (1.7) 1.7",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi",
+   "area": "1-1-bread-cereals",
+   "period": "LUJ",
+   "value": 169.1,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 10,
+   "snippet": "1.1 Bread & Cereals 4.26 166.1 165.7 167.3 169.1 163.3 0.2 (0.7) (1.7) 1.7",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi",
+   "area": "1-1-bread-cereals",
+   "period": "HTNOM",
+   "value": 163.3,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 10,
+   "snippet": "1.1 Bread & Cereals 4.26 166.1 165.7 167.3 169.1 163.3 0.2 (0.7) (1.7) 1.7",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi",
+   "area": "1-1-bread-cereals",
+   "period": "TSAL",
    "value": 0.2,
    "unit": {
     "en": "",
     "fr": ""
    },
    "page": 10,
-   "snippet": "11 Restaurants and hotels 9% 172.1 195.0 199.0 2.0% 15.6% 0.2 1.3",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index · parts sum to 2.8 but the document publishes 1.8",
-    "fr": "unit '' not allowed for cpi_urban_index · parts sum to 2.8 but the document publishes 1.8"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "restaurants-and-hotels",
-   "period": "12 months",
-   "value": 1.3,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "11 Restaurants and hotels 9% 172.1 195.0 199.0 2.0% 15.6% 0.2 1.3",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index · parts sum to 20.6 but the document publishes 15.7",
-    "fr": "unit '' not allowed for cpi_urban_index · parts sum to 20.6 but the document publishes 15.7"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "miscellaneous-goods-and-services",
-   "period": "Weights",
-   "value": 6,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "12 Miscellaneous goods and services 6% 147.1 160.5 166.7 3.9% 13.3% 0.2 0.7",
+   "snippet": "1.1 Bread & Cereals 4.26 166.1 165.7 167.3 169.1 163.3 0.2 (0.7) (1.7) 1.7",
    "status": "ok",
    "note": null
   },
   {
-   "indicator": "cpi_urban_index",
-   "area": "miscellaneous-goods-and-services",
-   "period": "Aug-25",
-   "value": 147.1,
+   "indicator": "cpi",
+   "area": "1-1-bread-cereals",
+   "period": "6202",
+   "value": -0.7,
    "unit": {
     "en": "",
     "fr": ""
    },
    "page": 10,
-   "snippet": "12 Miscellaneous goods and services 6% 147.1 160.5 166.7 3.9% 13.3% 0.2 0.7",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 147.1 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 147.1 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "miscellaneous-goods-and-services",
-   "period": "Jul-26",
-   "value": 160.5,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "12 Miscellaneous goods and services 6% 147.1 160.5 166.7 3.9% 13.3% 0.2 0.7",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 160.5 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 160.5 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "miscellaneous-goods-and-services",
-   "period": "Aug-26",
-   "value": 166.7,
-   "unit": {
-    "en": "",
-    "fr": ""
-   },
-   "page": 10,
-   "snippet": "12 Miscellaneous goods and services 6% 147.1 160.5 166.7 3.9% 13.3% 0.2 0.7",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index; 166.7 is outside the plausible range for cpi_urban_index",
-    "fr": "unit '' not allowed for cpi_urban_index; 166.7 is outside the plausible range for cpi_urban_index"
-   }
-  },
-  {
-   "indicator": "cpi_urban_index",
-   "area": "miscellaneous-goods-and-services",
-   "period": "on Jul. 2026",
-   "value": 3.9,
-   "unit": {
-    "en": "%",
-    "fr": "%"
-   },
-   "page": 10,
-   "snippet": "12 Miscellaneous goods and services 6% 147.1 160.5 166.7 3.9% 13.3% 0.2 0.7",
+   "snippet": "1.1 Bread & Cereals 4.26 166.1 165.7 167.3 169.1 163.3 0.2 (0.7) (1.7) 1.7",
    "status": "ok",
    "note": null
   },
   {
-   "indicator": "cpi_urban_index",
-   "area": "miscellaneous-goods-and-services",
-   "period": "on Aug. 2025",
-   "value": 13.3,
+   "indicator": "cpi",
+   "area": "1-1-bread-cereals",
+   "period": "NUJ",
+   "value": -1.7,
    "unit": {
-    "en": "%",
-    "fr": "%"
+    "en": "",
+    "fr": ""
    },
    "page": 10,
-   "snippet": "12 Miscellaneous goods and services 6% 147.1 160.5 166.7 3.9% 13.3% 0.2 0.7",
+   "snippet": "1.1 Bread & Cereals 4.26 166.1 165.7 167.3 169.1 163.3 0.2 (0.7) (1.7) 1.7",
    "status": "ok",
    "note": null
   },
   {
-   "indicator": "cpi_urban_index",
-   "area": "miscellaneous-goods-and-services",
-   "period": "1 month",
-   "value": 0.2,
+   "indicator": "cpi",
+   "area": "1-1-bread-cereals",
+   "period": "OGA",
+   "value": 1.7,
    "unit": {
     "en": "",
     "fr": ""
    },
    "page": 10,
-   "snippet": "12 Miscellaneous goods and services 6% 147.1 160.5 166.7 3.9% 13.3% 0.2 0.7",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index · parts sum to 2.8 but the document publishes 1.8",
-    "fr": "unit '' not allowed for cpi_urban_index · parts sum to 2.8 but the document publishes 1.8"
-   }
+   "snippet": "1.1 Bread & Cereals 4.26 166.1 165.7 167.3 169.1 163.3 0.2 (0.7) (1.7) 1.7",
+   "status": "ok",
+   "note": null
   },
   {
-   "indicator": "cpi_urban_index",
-   "area": "miscellaneous-goods-and-services",
-   "period": "12 months",
-   "value": 0.7,
+   "indicator": "cpi",
+   "area": "1-2-meat-fresh-chilled-frozen",
+   "period": "STHGIEW",
+   "value": 2.36,
    "unit": {
     "en": "",
     "fr": ""
    },
    "page": 10,
-   "snippet": "12 Miscellaneous goods and services 6% 147.1 160.5 166.7 3.9% 13.3% 0.2 0.7",
-   "status": "warn",
-   "note": {
-    "en": "unit '' not allowed for cpi_urban_index · parts sum to 20.6 but the document publishes 15.7",
-    "fr": "unit '' not allowed for cpi_urban_index · parts sum to 20.6 but the document publishes 15.7"
-   }
+   "snippet": "1.2 Meat (Fresh, Chilled & Frozen) 2.36 174.0 173.5 169.3 164.9 154.4 0.3 2.8 5.5 12.7",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi",
+   "area": "1-2-meat-fresh-chilled-frozen",
+   "period": "HTNOM",
+   "value": 174.0,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 10,
+   "snippet": "1.2 Meat (Fresh, Chilled & Frozen) 2.36 174.0 173.5 169.3 164.9 154.4 0.3 2.8 5.5 12.7",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi",
+   "area": "1-2-meat-fresh-chilled-frozen",
+   "period": "SIHT",
+   "value": 173.5,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 10,
+   "snippet": "1.2 Meat (Fresh, Chilled & Frozen) 2.36 174.0 173.5 169.3 164.9 154.4 0.3 2.8 5.5 12.7",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi",
+   "area": "1-2-meat-fresh-chilled-frozen",
+   "period": "6202",
+   "value": 169.3,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 10,
+   "snippet": "1.2 Meat (Fresh, Chilled & Frozen) 2.36 174.0 173.5 169.3 164.9 154.4 0.3 2.8 5.5 12.7",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi",
+   "area": "1-2-meat-fresh-chilled-frozen",
+   "period": "LUJ",
+   "value": 164.9,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 10,
+   "snippet": "1.2 Meat (Fresh, Chilled & Frozen) 2.36 174.0 173.5 169.3 164.9 154.4 0.3 2.8 5.5 12.7",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi",
+   "area": "1-2-meat-fresh-chilled-frozen",
+   "period": "HTNOM",
+   "value": 154.4,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 10,
+   "snippet": "1.2 Meat (Fresh, Chilled & Frozen) 2.36 174.0 173.5 169.3 164.9 154.4 0.3 2.8 5.5 12.7",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi",
+   "area": "1-2-meat-fresh-chilled-frozen",
+   "period": "TSAL",
+   "value": 0.3,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 10,
+   "snippet": "1.2 Meat (Fresh, Chilled & Frozen) 2.36 174.0 173.5 169.3 164.9 154.4 0.3 2.8 5.5 12.7",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi",
+   "area": "1-2-meat-fresh-chilled-frozen",
+   "period": "6202",
+   "value": 2.8,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 10,
+   "snippet": "1.2 Meat (Fresh, Chilled & Frozen) 2.36 174.0 173.5 169.3 164.9 154.4 0.3 2.8 5.5 12.7",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi",
+   "area": "1-2-meat-fresh-chilled-frozen",
+   "period": "NUJ",
+   "value": 5.5,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 10,
+   "snippet": "1.2 Meat (Fresh, Chilled & Frozen) 2.36 174.0 173.5 169.3 164.9 154.4 0.3 2.8 5.5 12.7",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi",
+   "area": "1-2-meat-fresh-chilled-frozen",
+   "period": "OGA",
+   "value": 12.7,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 10,
+   "snippet": "1.2 Meat (Fresh, Chilled & Frozen) 2.36 174.0 173.5 169.3 164.9 154.4 0.3 2.8 5.5 12.7",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi",
+   "area": "1-3-fish-fresh-chilled-frozen",
+   "period": "STHGIEW",
+   "value": 0.18,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 10,
+   "snippet": "1.3 Fish (Fresh, Chilled & Frozen) 0.18 162.0 161.0 157.1 155.4 139.5 0.6 3.2 4.3 16.2",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi",
+   "area": "1-3-fish-fresh-chilled-frozen",
+   "period": "HTNOM",
+   "value": 162.0,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 10,
+   "snippet": "1.3 Fish (Fresh, Chilled & Frozen) 0.18 162.0 161.0 157.1 155.4 139.5 0.6 3.2 4.3 16.2",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi",
+   "area": "1-3-fish-fresh-chilled-frozen",
+   "period": "SIHT",
+   "value": 161.0,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 10,
+   "snippet": "1.3 Fish (Fresh, Chilled & Frozen) 0.18 162.0 161.0 157.1 155.4 139.5 0.6 3.2 4.3 16.2",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi",
+   "area": "1-3-fish-fresh-chilled-frozen",
+   "period": "6202",
+   "value": 157.1,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 10,
+   "snippet": "1.3 Fish (Fresh, Chilled & Frozen) 0.18 162.0 161.0 157.1 155.4 139.5 0.6 3.2 4.3 16.2",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi",
+   "area": "1-3-fish-fresh-chilled-frozen",
+   "period": "LUJ",
+   "value": 155.4,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 10,
+   "snippet": "1.3 Fish (Fresh, Chilled & Frozen) 0.18 162.0 161.0 157.1 155.4 139.5 0.6 3.2 4.3 16.2",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi",
+   "area": "1-3-fish-fresh-chilled-frozen",
+   "period": "HTNOM",
+   "value": 139.5,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 10,
+   "snippet": "1.3 Fish (Fresh, Chilled & Frozen) 0.18 162.0 161.0 157.1 155.4 139.5 0.6 3.2 4.3 16.2",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi",
+   "area": "1-3-fish-fresh-chilled-frozen",
+   "period": "TSAL",
+   "value": 0.6,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 10,
+   "snippet": "1.3 Fish (Fresh, Chilled & Frozen) 0.18 162.0 161.0 157.1 155.4 139.5 0.6 3.2 4.3 16.2",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi",
+   "area": "1-3-fish-fresh-chilled-frozen",
+   "period": "6202",
+   "value": 3.2,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 10,
+   "snippet": "1.3 Fish (Fresh, Chilled & Frozen) 0.18 162.0 161.0 157.1 155.4 139.5 0.6 3.2 4.3 16.2",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi",
+   "area": "1-3-fish-fresh-chilled-frozen",
+   "period": "NUJ",
+   "value": 4.3,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 10,
+   "snippet": "1.3 Fish (Fresh, Chilled & Frozen) 0.18 162.0 161.0 157.1 155.4 139.5 0.6 3.2 4.3 16.2",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi",
+   "area": "1-3-fish-fresh-chilled-frozen",
+   "period": "OGA",
+   "value": 16.2,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 10,
+   "snippet": "1.3 Fish (Fresh, Chilled & Frozen) 0.18 162.0 161.0 157.1 155.4 139.5 0.6 3.2 4.3 16.2",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi",
+   "area": "1-4-milk-cheese-milk-products",
+   "period": "STHGIEW",
+   "value": 0.98,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 10,
+   "snippet": "1.4 Milk, Cheese & Milk Products 0.98 148.7 149.1 149.1 149.2 139.7 (0.3) (0.3) (0.3) 6.4",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi",
+   "area": "1-4-milk-cheese-milk-products",
+   "period": "HTNOM",
+   "value": 148.7,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 10,
+   "snippet": "1.4 Milk, Cheese & Milk Products 0.98 148.7 149.1 149.1 149.2 139.7 (0.3) (0.3) (0.3) 6.4",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi",
+   "area": "1-4-milk-cheese-milk-products",
+   "period": "SIHT",
+   "value": 149.1,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 10,
+   "snippet": "1.4 Milk, Cheese & Milk Products 0.98 148.7 149.1 149.1 149.2 139.7 (0.3) (0.3) (0.3) 6.4",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi",
+   "area": "1-4-milk-cheese-milk-products",
+   "period": "6202",
+   "value": 149.1,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 10,
+   "snippet": "1.4 Milk, Cheese & Milk Products 0.98 148.7 149.1 149.1 149.2 139.7 (0.3) (0.3) (0.3) 6.4",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi",
+   "area": "1-4-milk-cheese-milk-products",
+   "period": "LUJ",
+   "value": 149.2,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 10,
+   "snippet": "1.4 Milk, Cheese & Milk Products 0.98 148.7 149.1 149.1 149.2 139.7 (0.3) (0.3) (0.3) 6.4",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi",
+   "area": "1-4-milk-cheese-milk-products",
+   "period": "HTNOM",
+   "value": 139.7,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 10,
+   "snippet": "1.4 Milk, Cheese & Milk Products 0.98 148.7 149.1 149.1 149.2 139.7 (0.3) (0.3) (0.3) 6.4",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi",
+   "area": "1-4-milk-cheese-milk-products",
+   "period": "TSAL",
+   "value": -0.3,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 10,
+   "snippet": "1.4 Milk, Cheese & Milk Products 0.98 148.7 149.1 149.1 149.2 139.7 (0.3) (0.3) (0.3) 6.4",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi",
+   "area": "1-4-milk-cheese-milk-products",
+   "period": "6202",
+   "value": -0.3,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 10,
+   "snippet": "1.4 Milk, Cheese & Milk Products 0.98 148.7 149.1 149.1 149.2 139.7 (0.3) (0.3) (0.3) 6.4",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi",
+   "area": "1-4-milk-cheese-milk-products",
+   "period": "NUJ",
+   "value": -0.3,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 10,
+   "snippet": "1.4 Milk, Cheese & Milk Products 0.98 148.7 149.1 149.1 149.2 139.7 (0.3) (0.3) (0.3) 6.4",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "cpi",
+   "area": "1-4-milk-cheese-milk-products",
+   "period": "OGA",
+   "value": 6.4,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 10,
+   "snippet": "1.4 Milk, Cheese & Milk Products 0.98 148.7 149.1 149.1 149.2 139.7 (0.3) (0.3) (0.3) 6.4",
+   "status": "ok",
+   "note": null
   }
  ],
  "indicators": {
-  "cpi_urban_index": {
-   "fr": "Consumer Price Index, Urban Index (Feb 2014=100)",
-   "en": "Consumer price index, urban index (Feb 2014 = 100)"
+  "cpi": {
+   "fr": "National Consumer Price Group And Section Indices (December 2018=100.0)",
+   "en": "National Consumer Price Group And Section Indices (December 2018=100.0)"
   }
  },
  "i18n": {
@@ -2751,12 +969,12 @@
    "fBuiltBody": "Python, an LLM extraction pipeline, Chart.js. No tracking, no cookies, no server — a single HTML file.",
    "stamp": "Dashboard generated on {date}. Figures are the responsibility of the source institution; the presentation is the responsibility of the team that built this page.",
    "syntheticWarn": "Demonstration data — fictional country, for training purposes only.",
-   "kicker": "Statistics of Rwanda",
-   "title": "Consumer Price Index – Urban Index",
-   "subtitle": "",
-   "ovTitle": "Key figures",
-   "ovLede": "The urban consumer price index, with February 2014 = 100, tracks price changes across major expenditure categories.",
-   "limBody": "The published component totals do not match the sum of the individual parts: the parts sum to 2.8 % while the document reports 1.8 %, and they sum to 20.6 % while the document reports 15.7 %. Re‑checking the cells on page 10 shows values of –0.9, –1.0, –1.8 and 0.3 (and 0.8) that would close these gaps. Additionally, the unit for the CPI urban index is missing, which is not allowed.",
+   "kicker": "Price",
+   "title": "National Consumer Price Index",
+   "subtitle": "Indices for food and non‑alcoholic beverages and their sub‑categories",
+   "ovTitle": "Consumer Price Index – Overview",
+   "ovLede": "The CPI tracks changes in the price of a basket of goods and services, with December 2018 = 100 as the reference point.",
+   "limBody": "",
    "publisher": "National Institute of Statistics",
    "period": ""
   },
@@ -2794,12 +1012,12 @@
    "fBuiltBody": "Python, une chaîne d'extraction par LLM, Chart.js. Aucun traceur, aucun cookie, aucun serveur — un seul fichier HTML.",
    "stamp": "Tableau de bord généré le {date}. Les chiffres relèvent de la responsabilité de l'institution source ; la présentation relève de la responsabilité de l'équipe qui a construit cette page.",
    "syntheticWarn": "Données de démonstration — pays fictif, à usage pédagogique uniquement.",
-   "kicker": "Statistiques du Rwanda",
-   "title": "Indice des prix à la consommation – Indice urbain",
-   "subtitle": "",
-   "ovTitle": "Chiffres clés",
-   "ovLede": "L’indice urbain des prix à la consommation, avec février 2014 = 100, suit l’évolution des prix selon les principales catégories de dépenses.",
-   "limBody": "Les totaux publiés des composantes ne correspondent pas à la somme des parties : les parties totalisent 2,8 % alors que le document indique 1,8 %, et totalisent 20,6 % alors que le document indique 15,7 %. Une relecture des cellules à la page 10 révèle les valeurs –0,9, –1,0, –1,8, 0,3 (et 0,8) qui combleraient ces écarts. De plus, l’unité de l’indice urbain des prix à la consommation est absente, ce qui n’est pas autorisé.",
+   "kicker": "Prix",
+   "title": "Indice national des prix à la consommation",
+   "subtitle": "Indices pour l'alimentation et les boissons non alcoolisées et leurs sous‑catégories",
+   "ovTitle": "Indice des prix à la consommation – Aperçu",
+   "ovLede": "L'IPC mesure l'évolution des prix d'un panier de biens et services, avec décembre 2018 = 100 comme référence.",
+   "limBody": "",
    "publisher": "Institut National de la Statistique",
    "period": ""
   }
