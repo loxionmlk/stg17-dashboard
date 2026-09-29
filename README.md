@@ -1,3 +1,9 @@
+**Live dashboard: <https://loxionmlk.github.io/stg17-dashboard/>**
+
+Rebuilt by running the notebook in this repository against the source publication. Last published 2026-09-29.
+
+---
+
 # Statistics dashboard
 
 Bilingual (EN/FR) dashboard built from **PRICE**, pages 8, 9, 11.
