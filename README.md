@@ -1,12 +1,6 @@
-**Live dashboard: <https://loxionmlk.github.io/stg17-dashboard/>**
+# Consumer Price Index – Urban Index
 
-Rebuilt by running the notebook in this repository against the source publication. Last published 2026-09-29.
-
----
-
-# Statistics dashboard
-
-Bilingual (EN/FR) dashboard built from **PRICE**, pages 8, 9, 11.
+Bilingual (EN/FR) dashboard built from **STATISTICS OF RWANDA**, pages 10, 11, 12.
 
 Built during the STG17 technical workshop *Emerging Issues, Emerging Practice*
 (African Development Bank / AU STATAFRIC), lab 02 — from a statistical document
@@ -26,8 +20,8 @@ to a public dashboard.
 
 1. Text extracted page by page with `pdfplumber`.
 2. Each table read **twice and independently**: once by a rules-only reader, once by
-   `rules-only`
-   via Google Gemini. The model that read each cell is recorded in
+   `openai/gpt-oss-120b`
+   via Groq. The model that read each cell is recorded in
    `data/verification_report.csv`.
 3. Every cell passed through five checks — page provenance, quoted evidence, unit and
    range, reconciliation with published totals, and agreement between the two readings.
@@ -39,9 +33,9 @@ Results of the run that produced this page:
 
 | Outcome | Cells |
 |---|---|
-| verified | 655 |
-| published but flagged | 0 |
-| discarded | 274 |
+| verified | 54 |
+| published but flagged | 90 |
+| discarded | 0 |
 
 ## Reproducing this
 
