@@ -1,145 +1,51 @@
 indicator,area,period,value,unit,page,model,provenance,evidence,unit_range,arithmetic,cross_read,status,reason
-cpi_urban_index,GENERAL INDEX,Weights,100.0,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,GENERAL INDEX,Aug-25,188.3,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 188.3 is outside the plausible range for cpi_urban_index
-cpi_urban_index,GENERAL INDEX,Jul-26,214.0,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 214.0 is outside the plausible range for cpi_urban_index
-cpi_urban_index,GENERAL INDEX,Aug-26,217.8,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 217.8 is outside the plausible range for cpi_urban_index
-cpi_urban_index,GENERAL INDEX,on Jul. 2026,1.8,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,GENERAL INDEX,on Aug. 2025,15.7,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,GENERAL INDEX,1 month,1.8,%,10,openai/gpt-oss-120b,True,True,True,False,row-only,review,parts sum to 2.8 but the document publishes 1.8
-cpi_urban_index,GENERAL INDEX,12 months,15.7,%,10,openai/gpt-oss-120b,True,True,True,False,row-only,review,parts sum to 20.6 but the document publishes 15.7
-cpi_urban_index,Food and non-alcoholic beverages,Weights,27.0,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Food and non-alcoholic beverages,Aug-25,241.4,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 241.4 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Food and non-alcoholic beverages,Jul-26,270.7,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 270.7 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Food and non-alcoholic beverages,Aug-26,280.7,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 280.7 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Food and non-alcoholic beverages,on Jul. 2026,3.7,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Food and non-alcoholic beverages,on Aug. 2025,16.3,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Food and non-alcoholic beverages,1 month,1.3,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 2.8 but the document publishes 1.8 | re-read this cell: 0.3 is printed on page 10 and would close the gap
-cpi_urban_index,Food and non-alcoholic beverages,12 months,5.7,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 20.6 but the document publishes 15.7 | re-read this cell: 0.8 is printed on page 10 and would close the gap
-cpi_urban_index,Bread and cereals,Weights,5.0,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Bread and cereals,Aug-25,197.4,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 197.4 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Bread and cereals,Jul-26,210.0,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 210.0 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Bread and cereals,Aug-26,211.3,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 211.3 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Bread and cereals,on Jul. 2026,0.6,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Bread and cereals,on Aug. 2025,7.1,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Bread and cereals,1 month,0.0,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 2.8 but the document publishes 1.8 | re-read this cell: -1.0 is printed on page 10 and would close the gap
-cpi_urban_index,Bread and cereals,12 months,0.4,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 20.6 but the document publishes 15.7
-cpi_urban_index,Meat,Weights,2.0,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Meat,Aug-25,297.5,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 297.5 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Meat,Jul-26,398.4,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 398.4 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Meat,Aug-26,406.6,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 406.6 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Meat,on Jul. 2026,2.1,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Meat,on Aug. 2025,36.7,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Meat,1 month,0.1,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 2.8 but the document publishes 1.8 | re-read this cell: -0.9 is printed on page 10 and would close the gap
-cpi_urban_index,Meat,12 months,1.1,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 20.6 but the document publishes 15.7
-cpi_urban_index,Milk cheese and eggs,Weights,1.0,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Milk cheese and eggs,Aug-25,216.8,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 216.8 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Milk cheese and eggs,Jul-26,227.9,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 227.9 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Milk cheese and eggs,Aug-26,228.2,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 228.2 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Milk cheese and eggs,on Jul. 2026,0.1,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Milk cheese and eggs,on Aug. 2025,5.3,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Milk cheese and eggs,1 month,0.0,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 2.8 but the document publishes 1.8
-cpi_urban_index,Milk cheese and eggs,12 months,0.1,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 20.6 but the document publishes 15.7
-cpi_urban_index,Vegetables,Weights,9.0,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Vegetables,Aug-25,269.4,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 269.4 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Vegetables,Jul-26,313.6,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 313.6 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Vegetables,Aug-26,336.0,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 336.0 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Vegetables,on Jul. 2026,7.1,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Vegetables,on Aug. 2025,24.7,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Vegetables,1 month,0.9,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 2.8 but the document publishes 1.8
-cpi_urban_index,Vegetables,12 months,3.1,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 20.6 but the document publishes 15.7 | re-read this cell: -1.8 is printed on page 10 and would close the gap
-cpi_urban_index,Non-alcoholic beverages,Weights,1.0,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Non-alcoholic beverages,Aug-25,208.2,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 208.2 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Non-alcoholic beverages,Jul-26,223.9,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 223.9 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Non-alcoholic beverages,Aug-26,225.6,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 225.6 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Non-alcoholic beverages,on Jul. 2026,0.8,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Non-alcoholic beverages,on Aug. 2025,8.4,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Non-alcoholic beverages,1 month,0.0,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 2.8 but the document publishes 1.8
-cpi_urban_index,Non-alcoholic beverages,12 months,0.1,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 20.6 but the document publishes 15.7
-cpi_urban_index,Alcoholic beverages tobacco and narcotics,Weights,5.0,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Alcoholic beverages tobacco and narcotics,Aug-25,261.6,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 261.6 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Alcoholic beverages tobacco and narcotics,Jul-26,283.4,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 283.4 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Alcoholic beverages tobacco and narcotics,Aug-26,286.9,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 286.9 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Alcoholic beverages tobacco and narcotics,on Jul. 2026,1.2,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Alcoholic beverages tobacco and narcotics,on Aug. 2025,9.7,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Alcoholic beverages tobacco and narcotics,1 month,0.1,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 2.8 but the document publishes 1.8
-cpi_urban_index,Alcoholic beverages tobacco and narcotics,12 months,0.7,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 20.6 but the document publishes 15.7
-cpi_urban_index,Clothing and footwear,Weights,5.0,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Clothing and footwear,Aug-25,168.4,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 168.4 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Clothing and footwear,Jul-26,176.9,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 176.9 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Clothing and footwear,Aug-26,177.2,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 177.2 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Clothing and footwear,on Jul. 2026,0.2,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Clothing and footwear,on Aug. 2025,5.2,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Clothing and footwear,1 month,0.0,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 2.8 but the document publishes 1.8
-cpi_urban_index,Clothing and footwear,12 months,0.2,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 20.6 but the document publishes 15.7
-cpi_urban_index,"Housing water, electricity, gas and other fuels",Weights,21.0,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,"Housing water, electricity, gas and other fuels",Aug-25,144.3,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 144.3 is outside the plausible range for cpi_urban_index
-cpi_urban_index,"Housing water, electricity, gas and other fuels",Jul-26,173.5,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 173.5 is outside the plausible range for cpi_urban_index
-cpi_urban_index,"Housing water, electricity, gas and other fuels",Aug-26,173.8,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 173.8 is outside the plausible range for cpi_urban_index
-cpi_urban_index,"Housing water, electricity, gas and other fuels",on Jul. 2026,0.2,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,"Housing water, electricity, gas and other fuels",on Aug. 2025,20.4,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,"Housing water, electricity, gas and other fuels",1 month,0.0,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 2.8 but the document publishes 1.8
-cpi_urban_index,"Housing water, electricity, gas and other fuels",12 months,3.3,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 20.6 but the document publishes 15.7
-cpi_urban_index,Furnishings household equipment and routine household maintenance,Weights,4.0,%,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
-cpi_urban_index,Furnishings household equipment and routine household maintenance,Aug-25,173.4,,10,openai/gpt-oss-120b,True,True,False,True,no-row,review,unit '' not allowed for cpi_urban_index; 173.4 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Furnishings household equipment and routine household maintenance,Jul-26,183.2,,10,openai/gpt-oss-120b,True,True,False,True,no-row,review,unit '' not allowed for cpi_urban_index; 183.2 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Furnishings household equipment and routine household maintenance,Aug-26,184.3,,10,openai/gpt-oss-120b,True,True,False,True,no-row,review,unit '' not allowed for cpi_urban_index; 184.3 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Furnishings household equipment and routine household maintenance,on Jul. 2026,0.6,%,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
-cpi_urban_index,Furnishings household equipment and routine household maintenance,on Aug. 2025,6.3,%,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
-cpi_urban_index,Furnishings household equipment and routine household maintenance,1 month,0.0,,10,openai/gpt-oss-120b,True,True,False,False,no-row,review,unit '' not allowed for cpi_urban_index | parts sum to 2.8 but the document publishes 1.8
-cpi_urban_index,Furnishings household equipment and routine household maintenance,12 months,0.2,,10,openai/gpt-oss-120b,True,True,False,False,no-row,review,unit '' not allowed for cpi_urban_index | parts sum to 20.6 but the document publishes 15.7
-cpi_urban_index,Health,Weights,1.0,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Health,Aug-25,193.4,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 193.4 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Health,Jul-26,195.5,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 195.5 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Health,Aug-26,195.6,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 195.6 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Health,on Jul. 2026,0.0,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Health,on Aug. 2025,1.2,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Health,1 month,0.0,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 2.8 but the document publishes 1.8
-cpi_urban_index,Health,12 months,0.0,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 20.6 but the document publishes 15.7
-cpi_urban_index,Transport,Weights,12.0,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Transport,Aug-25,201.0,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 201.0 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Transport,Jul-26,249.2,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 249.2 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Transport,Aug-26,249.6,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 249.6 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Transport,on Jul. 2026,0.2,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Transport,on Aug. 2025,24.2,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Transport,1 month,0.0,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 2.8 but the document publishes 1.8
-cpi_urban_index,Transport,12 months,3.2,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 20.6 but the document publishes 15.7
-cpi_urban_index,Communication,Weights,3.0,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Communication,Aug-25,114.3,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 114.3 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Communication,Jul-26,118.2,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 118.2 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Communication,Aug-26,117.9,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 117.9 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Communication,on Jul. 2026,-0.3,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Communication,on Aug. 2025,3.2,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Communication,1 month,0.0,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 2.8 but the document publishes 1.8
-cpi_urban_index,Communication,12 months,0.1,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 20.6 but the document publishes 15.7
-cpi_urban_index,Recreation and culture,Weights,3.0,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Recreation and culture,Aug-25,154.0,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 154.0 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Recreation and culture,Jul-26,162.2,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 162.2 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Recreation and culture,Aug-26,162.6,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 162.6 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Recreation and culture,on Jul. 2026,0.2,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Recreation and culture,on Aug. 2025,5.6,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Recreation and culture,1 month,0.0,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 2.8 but the document publishes 1.8
-cpi_urban_index,Recreation and culture,12 months,0.1,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 20.6 but the document publishes 15.7
-cpi_urban_index,Education,Weights,3.0,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Education,Aug-25,155.5,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 155.5 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Education,Jul-26,176.2,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 176.2 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Education,Aug-26,176.2,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 176.2 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Education,on Jul. 2026,0.0,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Education,on Aug. 2025,13.3,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Education,1 month,0.0,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 2.8 but the document publishes 1.8
-cpi_urban_index,Education,12 months,0.3,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 20.6 but the document publishes 15.7
-cpi_urban_index,Restaurants and hotels,Weights,9.0,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Restaurants and hotels,Aug-25,172.1,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 172.1 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Restaurants and hotels,Jul-26,195.0,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 195.0 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Restaurants and hotels,Aug-26,199.0,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 199.0 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Restaurants and hotels,on Jul. 2026,2.0,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Restaurants and hotels,on Aug. 2025,15.6,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Restaurants and hotels,1 month,0.2,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 2.8 but the document publishes 1.8
-cpi_urban_index,Restaurants and hotels,12 months,1.3,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 20.6 but the document publishes 15.7
-cpi_urban_index,Miscellaneous goods and services,Weights,6.0,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Miscellaneous goods and services,Aug-25,147.1,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 147.1 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Miscellaneous goods and services,Jul-26,160.5,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 160.5 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Miscellaneous goods and services,Aug-26,166.7,,10,openai/gpt-oss-120b,True,True,False,True,row-only,review,unit '' not allowed for cpi_urban_index; 166.7 is outside the plausible range for cpi_urban_index
-cpi_urban_index,Miscellaneous goods and services,on Jul. 2026,3.9,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Miscellaneous goods and services,on Aug. 2025,13.3,%,10,openai/gpt-oss-120b,True,True,True,True,row-only,verified,
-cpi_urban_index,Miscellaneous goods and services,1 month,0.2,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 2.8 but the document publishes 1.8
-cpi_urban_index,Miscellaneous goods and services,12 months,0.7,,10,openai/gpt-oss-120b,True,True,False,False,row-only,review,unit '' not allowed for cpi_urban_index | parts sum to 20.6 but the document publishes 15.7
+cpi,1 Food & Non-Alcoholic Beverages,STHGIEW,13.55,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,1 Food & Non-Alcoholic Beverages,HTNOM,162.4,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,1 Food & Non-Alcoholic Beverages,SIHT,161.9,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,1 Food & Non-Alcoholic Beverages,6202,161.4,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,1 Food & Non-Alcoholic Beverages,LUJ,159.0,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,1 Food & Non-Alcoholic Beverages,HTNOM,152.3,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,1 Food & Non-Alcoholic Beverages,TSAL,0.3,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,1 Food & Non-Alcoholic Beverages,6202,0.6,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,1 Food & Non-Alcoholic Beverages,NUJ,2.2,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,1 Food & Non-Alcoholic Beverages,OGA,6.6,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,1.1 Bread & Cereals,STHGIEW,4.26,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,1.1 Bread & Cereals,HTNOM,166.1,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,1.1 Bread & Cereals,SIHT,165.7,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,1.1 Bread & Cereals,6202,167.3,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,1.1 Bread & Cereals,LUJ,169.1,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,1.1 Bread & Cereals,HTNOM,163.3,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,1.1 Bread & Cereals,TSAL,0.2,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,1.1 Bread & Cereals,6202,-0.7,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,1.1 Bread & Cereals,NUJ,-1.7,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,1.1 Bread & Cereals,OGA,1.7,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,"1.2 Meat (Fresh, Chilled & Frozen)",STHGIEW,2.36,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,"1.2 Meat (Fresh, Chilled & Frozen)",HTNOM,174.0,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,"1.2 Meat (Fresh, Chilled & Frozen)",SIHT,173.5,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,"1.2 Meat (Fresh, Chilled & Frozen)",6202,169.3,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,"1.2 Meat (Fresh, Chilled & Frozen)",LUJ,164.9,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,"1.2 Meat (Fresh, Chilled & Frozen)",HTNOM,154.4,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,"1.2 Meat (Fresh, Chilled & Frozen)",TSAL,0.3,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,"1.2 Meat (Fresh, Chilled & Frozen)",6202,2.8,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,"1.2 Meat (Fresh, Chilled & Frozen)",NUJ,5.5,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,"1.2 Meat (Fresh, Chilled & Frozen)",OGA,12.7,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,"1.3 Fish (Fresh, Chilled & Frozen)",STHGIEW,0.18,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,"1.3 Fish (Fresh, Chilled & Frozen)",HTNOM,162.0,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,"1.3 Fish (Fresh, Chilled & Frozen)",SIHT,161.0,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,"1.3 Fish (Fresh, Chilled & Frozen)",6202,157.1,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,"1.3 Fish (Fresh, Chilled & Frozen)",LUJ,155.4,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,"1.3 Fish (Fresh, Chilled & Frozen)",HTNOM,139.5,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,"1.3 Fish (Fresh, Chilled & Frozen)",TSAL,0.6,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,"1.3 Fish (Fresh, Chilled & Frozen)",6202,3.2,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,"1.3 Fish (Fresh, Chilled & Frozen)",NUJ,4.3,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,"1.3 Fish (Fresh, Chilled & Frozen)",OGA,16.2,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,"1.4 Milk, Cheese & Milk Products",STHGIEW,0.98,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,"1.4 Milk, Cheese & Milk Products",HTNOM,148.7,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,"1.4 Milk, Cheese & Milk Products",SIHT,149.1,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,"1.4 Milk, Cheese & Milk Products",6202,149.1,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,"1.4 Milk, Cheese & Milk Products",LUJ,149.2,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,"1.4 Milk, Cheese & Milk Products",HTNOM,139.7,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,"1.4 Milk, Cheese & Milk Products",TSAL,-0.3,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,"1.4 Milk, Cheese & Milk Products",6202,-0.3,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,"1.4 Milk, Cheese & Milk Products",NUJ,-0.3,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+cpi,"1.4 Milk, Cheese & Milk Products",OGA,6.4,,10,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
